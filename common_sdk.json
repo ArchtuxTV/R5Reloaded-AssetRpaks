@@ -37,12 +37,12 @@
                 "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_ao",
                 "texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_cav",
 
-			    "texture/models/weapons/bolo_sword/bolo_sword_01_col",
-			    "texture/models/weapons/bolo_sword/bolo_sword_01_nml",
-			    "texture/models/weapons/bolo_sword/bolo_sword_01_gls",
-			    "texture/models/weapons/bolo_sword/bolo_sword_01_spc",
-			    "texture/models/weapons/bolo_sword/bolo_sword_01_ilm",
-			    "texture/models/weapons/bolo_sword/bolo_sword_01_ao"
+                "texture/models/weapons/bolo_sword/bolo_sword_01_col",
+                "texture/models/weapons/bolo_sword/bolo_sword_01_nml",
+                "texture/models/weapons/bolo_sword/bolo_sword_01_gls",
+                "texture/models/weapons/bolo_sword/bolo_sword_01_spc",
+                "texture/models/weapons/bolo_sword/bolo_sword_01_ilm",
+                "texture/models/weapons/bolo_sword/bolo_sword_01_ao"
             ]
 		},
 		{
