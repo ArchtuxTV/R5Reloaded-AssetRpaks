@@ -7,64 +7,64 @@
   "name": "common_sdk",
 
   "files": [
-    {
-      "$type": "txtr",
-      "path": "texture/models/weapons/bolo_sword/bolo_sword_01_col"
-    },
-    {
-      "$type": "txtr",
-      "path": "texture/models/weapons/bolo_sword/bolo_sword_01_nml"
-    },
-    {
-      "$type": "txtr",
-      "path": "texture/models/weapons/bolo_sword/bolo_sword_01_gls"
-    },
-    {
-      "$type": "txtr",
-      "path": "texture/models/weapons/bolo_sword/bolo_sword_01_spc"
-    },
-    {
-      "$type": "txtr",
-      "path": "texture/models/weapons/bolo_sword/bolo_sword_01_ilm"
-    },
-    {
-      "$type": "txtr",
-      "path": "texture/models/weapons/bolo_sword/bolo_sword_01_ao"
-    },
-	{
-      "$type": "matl",
-      "path": "models/weapons/bolo_sword/bolo_sword_02",
-      "type": "sknp",
-      "cputype": "weapon",
-	  "shaderset": 8900632333082111100,
-      "width": 1024,
-      "height": 1024,
-	  "posX": 0,
-	  "posY": 0,
-      "textures": [
-        "texture/models/weapons/bolo_sword/bolo_sword_01_col",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_nml",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_gls",
-		"texture/models/weapons/bolo_sword/bolo_sword_01_spc",
-        "texture/models/weapons/bolo_sword/bolo_sword_01_ilm",
-		"texture/models/weapons/bolo_sword/bolo_sword_01_ao"
-      ]
-    },
-	{
-      "$type": "rmdl",
-      "path": "mdl/weapons/bolo_sword/ptpov_bolo_sword_ash.rmdl",
-      "starpakPath": "paks/Win64/common_sdk.starpak",
-      "usePhysics": false,
-      "materials": [
-        "models/weapons/bolo_sword/bolo_sword_02_sknp",
-        "",
-        "",
-        ""
-      ],
-      "animrigs":
-      [
-        "animrig/weapons/bloodhound_axe/ptpov_axe_bloodhound.rrig"
-      ]
-	}
-  ]
+		{
+            "$type": "txtrlist",
+            "textures": [
+			    "texture/ui_atlas/rui/weapon_icons/r5/weapon_bolo",
+				
+			    "texture/models/weapons/bolo_sword/bolo_sword_01_col",
+			    "texture/models/weapons/bolo_sword/bolo_sword_01_nml",
+			    "texture/models/weapons/bolo_sword/bolo_sword_01_gls",
+			    "texture/models/weapons/bolo_sword/bolo_sword_01_spc",
+			    "texture/models/weapons/bolo_sword/bolo_sword_01_ilm",
+			    "texture/models/weapons/bolo_sword/bolo_sword_01_ao"
+            ]
+		},
+		{
+			"$type": "uimg",
+			"path": "ui_image_atlas/rui/weapon_icons/r5/weapon_bolo",
+			"atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_bolo",
+			"textures": [
+				{
+					"path": "rui/weapon_icons/r5/weapon_bolo",
+					"posX": 0,
+					"posY": 0,
+					"width": 256,
+					"height": 128
+				}
+			]
+		},
+		{
+			"$type": "matl",
+			"path": "models/weapons/bolo_sword/bolo_sword_02",
+			"type": "sknp",
+			"cputype": "weapon",
+			"shaderset": 8900632333082111100,
+			"width": 1024,
+			"height": 1024,
+			"posX": 0,
+			"posY": 0,
+			"textures": [
+				"texture/models/weapons/bolo_sword/bolo_sword_01_col",
+				"texture/models/weapons/bolo_sword/bolo_sword_01_nml",
+				"texture/models/weapons/bolo_sword/bolo_sword_01_gls",
+				"texture/models/weapons/bolo_sword/bolo_sword_01_spc",
+				"texture/models/weapons/bolo_sword/bolo_sword_01_ilm",
+				"texture/models/weapons/bolo_sword/bolo_sword_01_ao"
+			]
+		},
+		{
+			"$type": "rmdl",
+			"path": "mdl/weapons/bolo_sword/ptpov_bolo_sword_ash.rmdl",
+			"starpakPath": "paks/Win64/common_sdk.starpak",
+			"usePhysics": false,
+			"materials": [
+				"models/weapons/bolo_sword/bolo_sword_02_sknp"
+			],
+			"animrigs":
+			[
+				"animrig/weapons/bloodhound_axe/ptpov_axe_bloodhound.rrig"
+			]
+		}
+	]
 }
