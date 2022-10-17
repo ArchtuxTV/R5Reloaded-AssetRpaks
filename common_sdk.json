@@ -1,17 +1,21 @@
 {
-  "$mapversion": 1,
-  "version": 8,
+    "$mapversion": 1,
+    "version": 8,
+    "keepDevOnly": true,
 
-  "assetsDir": ".\\assets\\",
-  "outputDir": ".\\build\\",
-  "name": "common_sdk",
+    "starpakPath": "paks/Win64/common_sdk.starpak",
 
-  "files": [
+    "assetsDir": ".\\assets\\",
+    "outputDir": ".\\build\\",
+    "name": "common_sdk",
+
+    "files": [
 		{
             "$type": "txtrlist",
             "textures": [
-                "texture/ui_atlas/rui/weapon_icons/r5/weapon_bolo",
                 "texture/ui_atlas/rui/weapon_icons/r5/weapon_sentinel",
+
+                "texture/ui_atlas/rui/weapon_icons/r5/weapon_bolo",
 
                 "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
                 "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
@@ -47,17 +51,17 @@
 		},
 		{
 			"$type": "uimg",
-			"path": "ui_image_atlas/rui/weapon_icons/r5/weapon_bolo",
-			"atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_bolo",
+			"path": "ui_image_atlas/rui/weapon_icons/r5/weapon_sentinel",
+			"atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_sentinel",
 			"textures": [
 				{
-					"path": "rui/weapon_icons/r5/weapon_bolo",
+				 	"path": "rui/weapon_icons/r5/weapon_sentinel",
 					"posX": 0,
-					"posY": 0,
-					"width": 256,
-					"height": 128
+				  	"posY": 0,
+				  	"width": 640,
+				  	"height": 320
 				}
-			]
+		  	]
 		},
 		{
 			"$type": "matl",
@@ -77,6 +81,80 @@
 				"texture/models/weapons/bolo_sword/bolo_sword_01_ilm",
 				"texture/models/weapons/bolo_sword/bolo_sword_01_ao"
 			]
+		},
+		{
+			"$type": "uimg",
+			"path": "ui_image_atlas/rui/weapon_icons/r5/weapon_bolo",
+			"atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_bolo",
+			"textures": [
+				{
+					"path": "rui/weapon_icons/r5/weapon_bolo",
+					"posX": 0,
+					"posY": 0,
+					"width": 256,
+					"height": 128
+				}
+			]
+		},
+		{
+		  "$type": "matl",
+		  "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR",
+		  "type": "sknp",
+		  "cputype": "weapon",
+		  "shaderset": 12024133449294937,
+		  "width": 2048,
+		  "height": 2048,
+		  "posX": 0,
+		  "posY": 0,
+		  "textures": [
+			"texture/models/weapons_r5/sentinel/sentinel_ESR_col",
+			"texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
+			"texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
+			"texture/models/weapons_r5/sentinel/sentinel_ESR_spc",
+			"texture/models/weapons_r5/sentinel/sentinel_ESR_ilm",
+			"texture/models/weapons_r5/sentinel/sentinel_ESR_ao",
+			"texture/models/weapons_r5/sentinel/sentinel_ESR_cav"
+		  ]
+		},
+		{
+		  "$type": "matl",
+		  "path": "models/weapons_r5/attachments/optics/iron_sight_AR_R5/iron_sight_AR",
+		  "type": "sknp",
+		  "cputype": "weapon",
+		  "shaderset": 12024133449294937,
+		  "width": 2048,
+		  "height": 2048,
+		  "posX": 0,
+		  "posY": 0,
+		  "textures": [
+			"texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_col",
+			"texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_nml",
+			"texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_gls",
+			"texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_spc",
+			"texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_ilm",
+			"texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_ao",
+			"texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_cav"
+		  ]
+		},
+		{
+		  "$type": "matl",
+		  "path": "models/weapons_r5/attachments/fore_end/sentinel_quickcharge_wire/sentinel_quickcharge_wire",
+		  "type": "sknp",
+		  "cputype": "weapon",
+		  "shaderset": 12024133449294937,
+		  "width": 2048,
+		  "height": 2048,
+		  "posX": 0,
+		  "posY": 0,
+		  "textures": [
+			"texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_col",
+			"texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_nml",
+			"texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_gls",
+			"texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_spc",
+			"texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_ilm",
+			"texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_ao",
+			"texture/models/weapons_r5/sentinel_quickcharge_wire/sentinel_quickcharge_wire_cav"
+		  ]
 		},
 		{
 		  "$type": "aseq",
