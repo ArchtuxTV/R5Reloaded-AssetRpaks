@@ -937,7 +937,6 @@
 				""
             ],
             "animrigs": [
-			    "animrig/humans/class/light/pilot_light_wraith.rrig",
                 "animrig/robots/spectre/spectre_pete_core_copy.rrig",
 				"animrig/robots/spectre/spectre_pete_reactions_copy.rrig"
             ]
@@ -950,7 +949,6 @@
 				""
             ],
             "animrigs": [
-				"animrig/humans/class/medium/pilot_medium_holo.rrig",
                 "animrig/robots/spectre/spectre_pete_core_copy.rrig",
 				"animrig/robots/spectre/spectre_pete_reactions_copy.rrig"
             ]
@@ -963,7 +961,6 @@
 				""
             ],
             "animrigs": [
-				"animrig/humans/class/heavy/pilot_heavy_caustic.rrig",
                 "animrig/robots/spectre/spectre_pete_core_copy.rrig",
 				"animrig/robots/spectre/spectre_pete_reactions_copy.rrig"
             ]
