@@ -96,7 +96,34 @@
         "texture/models/creatures_r5/prowler/prowler_head_02_ilm",
         "texture/models/creatures_r5/prowler/prowler_head_02_gls",
         "texture/models/creatures_r5/prowler/prowler_head_02_thk",
-        "texture/models/creatures_r5/prowler/prowler_head_02_msk"
+        "texture/models/creatures_r5/prowler/prowler_head_02_msk",
+
+        "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_col",
+        "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_nml",
+        "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_gls",
+        "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_spc",
+        "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_ao",
+
+        "texture/models/weapons_r5/clacker_detonator_kral/clacker_col",
+        "texture/models/weapons_r5/clacker_detonator_kral/clacker_ilm"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/clacker_detonator/clacker_kral",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8403185417549714111,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/clacker_detonator_kral/clacker_col",
+        15986766348241237168,
+        2303354841653228871,
+        5524232366086987716,
+        "texture/models/weapons_r5/clacker_detonator_kral/clacker_ilm",
+        10981713264012071911,
+        18023374377375660360
       ]
     },
     {
@@ -352,6 +379,23 @@
     },
     {
       "$type": "matl",
+      "path": "models/titans_r2/light_northstar/t_l_northstar01_rockets_v1_skin01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_col",
+        "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_nml",
+        "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_gls",
+        "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_spc",
+        "",
+        "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_ao"
+      ]
+    },
+    {
+      "$type": "matl",
       "path": "models/weapons_r5/snipe_sentinel_ESR/sentinel_ESR_charge",
       "type": "sknp",
       "cputype": "weapon",
@@ -550,41 +594,63 @@
       ]
     },
     {
-      "$type": "aseq",
-      "path": "animseq/weapons/drumstick/ptpov_baton_lifeline/inspect.rseq"
+      "$type": "aseqlist",
+      "animseqs": [
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/ads_in_seq.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/ads_out_seq.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/attack_seq.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/attack_seq_sequential.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/charge_seq.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/draw_seq.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/holster_seq.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/idle_seq.rseq",
+        "animseq/weapons/drumstick/ptpov_baton_lifeline/inspect.rseq"
+      ]
+    },
+    {
+      "$type": "arig",
+      "path": "animrig/weapons/clacker_detonator/ptpov_clacker_detonator.rrig",
+      "animseqs": [
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_check_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_seq_air.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_seq_crouch.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_seq_test.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/idle_seq_test.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/regrip.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/switch_to_jump_iron.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_clacker_detonator/switch_to_land_iron.rseq"
+      ]
     },
     {
       "$type": "arig",
       "path": "animrig/weapons/rampart_turret/ptpov_rampart_turret.rrig",
       "animseqs": [
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/ads_in.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/ads_in.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/ads_in_onehanded.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/ads_out.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/barrel_spin_layer.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/fire_left.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/fire_right.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/fire_left.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/fire_right.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/inspect_rampart_01.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/inspect_rampart_02.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/inspect_rampart_03.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret/altswitch_off.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret/altswitch_on.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late1.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late1_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late2.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late2_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late3.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late3_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late4.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late4_rampart.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late5.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late1.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late1_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late2.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late2_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late3.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late3_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late4.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late4_rampart.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late5.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/zipline_mount.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret/zoom_optic_layer.rseq"
       ]
     },
@@ -592,24 +658,24 @@
       "$type": "arig",
       "path": "animrig/weapons/rampart_turret/ptpov_rampart_turret_held.rrig",
       "animseqs": [
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/crouch.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/draw.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/holster.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/idle.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/jump.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/crouch.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/draw.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/holster.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/idle.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/jump.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/land.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/land_high.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/land_low.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/land_med.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/lower.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/raise.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/regrip_to_crouch.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/regrip_to_idle.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/raise.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/raise_sprinting.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/run_layer.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/sprint.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/sprintjump.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/sprintraise.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/sprintslide.rseq"
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/sprint.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/sprintraise.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/sprintjump.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/sprintslide.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/switch_to_onehanded.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/switch_to_twohanded.rseq"
       ]
     },
     {
@@ -1060,6 +1126,7 @@
         "animseq/robots/marvin/marvin_anims/layer_run_aiming.rseq",
         "animseq/robots/marvin/marvin_anims/marvin_Gladcard_static_bighug.rseq",
         "animseq/robots/marvin/marvin_anims/marvin_Gladcard_static_stabby.rseq",
+        "animseq/robots/marvin/marvin_anims/marvin_Gladcard_static_wait.rseq",
         "animseq/robots/marvin/marvin_anims/Militia_Angel_City_flyin_countdown_marv.rseq",
         "animseq/robots/marvin/marvin_anims/Militia_Angel_City_flyin_exit_marv.rseq",
         "animseq/robots/marvin/marvin_anims/Militia_Angel_City_flyin_idle_marv.rseq",
@@ -1298,6 +1365,72 @@
       "usePhysics": true,
       "materials": ["", "", "", "", "", ""],
       "animrigs": ["animrig/robots/marvin/marvin_anims.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core.rmdl",
+      "usePhysics": false,
+      "materials": [
+        "models/titans_r2/light_northstar/t_l_northstar01_rockets_v1_skin01_sknp"
+      ],
+      "animseqs": [
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/ads_in_seq.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/ads_out_seq.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/attack_seq.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/attack_seq_sequential.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/charge_seq.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/draw_seq.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/holster_seq.rseq",
+        "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/idle_seq.rseq"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/at_satchel_charge/at_satchel_charge.rmdl",
+      "usePhysics": true,
+      "materials": [""]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/clacker_detonator/ptpov_clacker_detonator.rmdl",
+      "usePhysics": false,
+      "materials": [
+        "models/weapons_r5/clacker_detonator/clacker_kral_sknp",
+        ""
+      ],
+      "animrigs": [
+        "animrig/weapons/clacker_detonator/ptpov_clacker_detonator.rrig"
+      ],
+      "animseqs": [
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/attack_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/attack_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/draw_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/draw_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/holster_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/holster_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/idle_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/idle_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/lower_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/lower_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/melee_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/melee_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/raise_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/raise_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/sprint_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/sprint_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_hold_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_hold_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_hold_sprinting_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_hold_sprinting_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_overhead_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_overhead_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_prep_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_prep_pullout_onehanded_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_prep_pullout_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_prep_seq.rseq",
+        "animseq/weapons/clacker_detonator/ptpov_proximity_detonator/toss_seq.rseq"
+      ]
     },
     {
       "$type": "rmdl",
