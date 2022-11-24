@@ -105,7 +105,52 @@
         "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_ao",
 
         "texture/models/weapons_r5/clacker_detonator_kral/clacker_col",
-        "texture/models/weapons_r5/clacker_detonator_kral/clacker_ilm"
+        "texture/models/weapons_r5/clacker_detonator_kral/clacker_ilm",
+
+        "texture/models/weapons_r5/ammo/ammo_col",
+        "texture/models/weapons_r5/ammo/ammo_nml",
+        "texture/models/weapons_r5/ammo/ammo_gls",
+        "texture/models/weapons_r5/ammo/ammo_spc",
+
+        "texture/models/weapons_r5/at_softball/at_softball_col",
+        "texture/models/weapons_r5/at_softball/at_softball_nml",
+        "texture/models/weapons_r5/at_softball/at_softball_gls",
+        "texture/models/weapons_r5/at_softball/at_softball_spc",
+        "texture/models/weapons_r5/at_softball/at_softball_ao",
+        "texture/models/weapons_r5/at_softball/at_softball_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/at_softball/at_softball",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 2134705335625393957,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/at_softball/at_softball_col",
+        "texture/models/weapons_r5/at_softball/at_softball_nml",
+        "texture/models/weapons_r5/at_softball/at_softball_gls",
+        "texture/models/weapons_r5/at_softball/at_softball_spc",
+        "",
+        "texture/models/weapons_r5/at_softball/at_softball_ao",
+        "texture/models/weapons_r5/at_softball/at_softball_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons/softball_at/ammo",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8213833473093334948,
+      "width": 256,
+      "height": 256,
+      "textures": [
+        "texture/models/weapons_r5/ammo/ammo_col",
+        "texture/models/weapons_r5/ammo/ammo_nml",
+        "texture/models/weapons_r5/ammo/ammo_gls",
+        "texture/models/weapons_r5/ammo/ammo_spc"
       ]
     },
     {
@@ -604,7 +649,24 @@
         "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/draw_seq.rseq",
         "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/holster_seq.rseq",
         "animseq/weapons/titan_raptor_rocket_pod/atpov_titan_raptor_rocket_pod_core/idle_seq.rseq",
-        "animseq/weapons/drumstick/ptpov_baton_lifeline/inspect.rseq"
+        "animseq/weapons/drumstick/ptpov_baton_lifeline/inspect.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_in_crouch_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_in_onehanded_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_in_onehanded_seq_air.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_in_onehanded_seq_sliding.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_in_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_in_seq_air.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_out_crouch_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/inspect_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/reload_empty_end_onehanded_crouch_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/reload_empty_segStart_onehanded_crouch_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/reload_segEnd_onehanded_crouch_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/reload_segStart_onehanded_crouch_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/sprint_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/sprintdraw_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/sprintholster_onehanded_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/sprintholster_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/sprintraise_onehanded_seq_slide.rseq"
       ]
     },
     {
@@ -1528,6 +1590,36 @@
         "models/weapons_r5/misc_rampart_turret/rampart_turret_screen_sknp",
         "models/weapons_r5/misc_rampart_turret/rampart_turret_screen_2_sknp",
         "models/weapons_r5/misc_rampart_turret/rampart_turret_sticker_sknp"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/softball_at/ptpov_softball_at.rmdl",
+      "usePhysics": false,
+      "materials": [
+        "models/weapons_r5/at_softball/at_softball_sknp",
+        "models/weapons/softball_at/ammo_sknp",
+        "models/weapons_r2/attachments/pro_screen_sknp"
+      ],
+      "animrigs": ["animrig/weapons/softball_at/ptpov_softball_at.rrig"],
+      "animseqs": [
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_in_crouch_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_in_onehanded_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_in_onehanded_seq_air.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_in_onehanded_seq_sliding.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_in_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_in_seq_air.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/ads_out_crouch_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/inspect_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/reload_empty_end_onehanded_crouch_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/reload_empty_segStart_onehanded_crouch_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/reload_segEnd_onehanded_crouch_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/reload_segStart_onehanded_crouch_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/sprint_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/sprintdraw_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/sprintholster_onehanded_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/sprintholster_seq.rseq",
+        "animseq/weapons/softball_at/ptpov_softball_at/sprintraise_onehanded_seq_slide.rseq"
       ]
     },
     {
