@@ -688,57 +688,39 @@
     },
     {
       "$type": "arig",
-      "path": "animrig/weapons/rampart_turret/ptpov_rampart_turret.rrig",
+      "path": "animrig/weapons/rampart_turret/ptpov_rampart_turret_mobile.rrig",
       "animseqs": [
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/ads_in.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/ads_in_onehanded.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/ads_out.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/barrel_spin_layer.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/ads_out.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/barrel_spin_layer.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/crouch.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/fire_left.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/fire_right.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/inspect_rampart_01.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/inspect_rampart_02.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/inspect_rampart_03.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/altswitch_off.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/altswitch_on.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late1_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late2_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late3_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late4_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reload_late5.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late1_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late2_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late3_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late4_rampart.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/reloadempty_late5.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/zipline_mount.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret/zoom_optic_layer.rseq"
-      ]
-    },
-    {
-      "$type": "arig",
-      "path": "animrig/weapons/rampart_turret/ptpov_rampart_turret_held.rrig",
-      "animseqs": [
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/crouch.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/draw.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/holster.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/lower.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/idle.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/inspect.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/inspect_rampart_01.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/inspect_rampart_02.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/inspect_rampart_03.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/reload.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/reload_rampart.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/reloadempty.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/reloadempty_rampart.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/jump.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/land.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/land_high.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/land_low.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/land_med.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/land.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/land_high.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/land_low.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/land_med.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/draw.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/raise.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/raise_sprinting.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_held/run_layer.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/raise_from_placedHMG.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/regrip_to_crouch.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/regrip_to_idle.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/sprint.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/sprintraise.rseq",
         "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/sprintjump.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/sprintslide.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/switch_to_onehanded.rseq",
-        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/switch_to_twohanded.rseq"
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/sprintraise.rseq",
+        "animseq/weapons/rampart_turret/ptpov_rampart_turret_mobile/sprintslide.rseq"
       ]
     },
     {
@@ -1695,8 +1677,7 @@
         "models/weapons_r5/misc_rampart_turret/rampart_turret_sticker_sknp"
       ],
       "animrigs": [
-        "animrig/weapons/rampart_turret/ptpov_rampart_turret.rrig",
-        "animrig/weapons/rampart_turret/ptpov_rampart_turret_held.rrig"
+        "animrig/weapons/rampart_turret/ptpov_rampart_turret_mobile.rrig"
       ]
     },
     {
