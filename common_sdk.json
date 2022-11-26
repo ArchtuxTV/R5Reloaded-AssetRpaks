@@ -352,26 +352,10 @@
         "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_ao",
         "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_cav",
 
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_albedoTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_normalTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_glossTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_specTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_emissiveTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_aoTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_opacityMultiplyTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_detailTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_emissiveMultiplyTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_uvDistortionTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_uvDistortion2Texture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_layerBlendTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_albedo2Texture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_normal2Texture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_gloss2Texture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_spec2Texture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_emissive2Texture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ao2Texture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_IndirectSpecularTextureCubeArray",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_CSMDepthAtlasTexture"
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_col",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ilm",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_col2",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ilm2"
       ]
     },
     {
@@ -379,41 +363,38 @@
       "path": "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_sni_blend",
       "type": "rgdp",
       "shaderset": 2378219299521690556,
-      "width": 1024,
-      "height": 1024,
+      "width": 2048,
+      "height": 2048,
       "textures": [
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_albedoTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_normalTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_glossTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_specTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_emissiveTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_aoTexture",
-        "",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_opacityMultiplyTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_detailTexture",
-        "",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_emissiveMultiplyTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_uvDistortionTexture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_uvDistortion2Texture",
-        "",
-        "",
-        "",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_layerBlendTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_col",
+        3531264949961635812,
+        7410099657257040276,
+        17977908158269311930,
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ilm",
+        3217909929491047341,
         "",
         "",
         "",
         "",
         "",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_albedo2Texture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_normal2Texture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_gloss2Texture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_spec2Texture",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_emissive2Texture",
+        16371403591942019181,
+        16371403591942019181,
         "",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ao2Texture",
         "",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_IndirectSpecularTextureCubeArray",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_CSMDepthAtlasTexture"
+        "",
+        7524701640875380521,
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_col2",
+        3531264949961635812,
+        7410099657257040276,
+        17977908158269311930,
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ilm2",
+        "",
+        3217909929491047341
       ]
     },
     {
@@ -5434,27 +5415,6 @@
       "path": "mdl/weapons/kunai/ptpov_data_knife.rmdl",
       "usePhysics": false,
       "animrigs": ["animrig/weapons/kunai/ptpov_kunai_wraith.rrig"]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/ammo_icons",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/ammo_icons",
-      "textures": [
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_sniper",
-          "posX": 421,
-          "posY": 55,
-          "width": 256,
-          "height": 256
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_explosive",
-          "posX": 55,
-          "posY": 55,
-          "width": 256,
-          "height": 256
-        }
-      ]
     }
   ]
 }
