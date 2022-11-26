@@ -1,10 +1,10 @@
-Main assets rpaks for R5Reloaded Modded Apex Porject, used for custom assets.
+Main assets rpaks for R5Reloaded Modded Apex Project, used for custom assets. (Models, ui icons and many more)
 If you wanna add any asset send me a message on discord (KralRindo#0797)
 
 Made by @KralRindo
 
 //========================================================
-//					Material Slots						//
+//			Material Slots				//
 //========================================================
 
 slot1 _col
@@ -40,7 +40,7 @@ slot33 _nml ??
 
 
 //========================================================
-//					Visibility Flags					//
+//			Visibility Flags			//
 //========================================================
 
 visibilityflags:
@@ -55,7 +55,7 @@ faceflags:
 
 
 //=========================================================
-//					Texture Formats						//
+//			Texture Formats				//
 //=========================================================
 
 _col: BC1 sRGB
@@ -75,7 +75,7 @@ Minimap: BC1 sRGB
 
 
 //========================================================
-//					Useful Shadersets					//
+//			Useful Shadersets			//
 //========================================================
 
 WLDC: 3134464214606249681 (Makes textures redish, used for Mirage Voyage)
@@ -84,7 +84,7 @@ SKNP: 8900632333082111100 (Glossy weapon shaderset)
 
 
 //========================================================
-//					Surface Types						//
+//			Surface Types				//
 //========================================================
 
 // -----------------------------
