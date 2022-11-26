@@ -3,6 +3,12 @@ If you wanna add any asset send me a message on discord (KralRindo#0797)
 
 Made by @KralRindo
 
+Usage: Download the repo, drop "ui_sdk.json" and "common_sdk.json" into repak.exe. 
+It will create asset rpaks in "build" folder, copy them and drop into "r5reloaded/paks/win64" folder.
+
+Update your scrips and launch the game.
+If you wanna modify and add your own asset, here is some useful info below
+
 //========================================================
 //			Material Slots			//
 //========================================================
