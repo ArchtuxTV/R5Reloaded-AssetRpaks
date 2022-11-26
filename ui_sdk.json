@@ -86,6 +86,10 @@
     },
     {
       "$type": "txtr",
+      "path": "texture/ui_atlas/rui/weapon_icons/r5/ammo_icons"
+    },
+    {
+      "$type": "txtr",
       "path": "texture/ui_atlas/rui/weapon_icons/r5/crosshair_triangle_shadow"
     },
     {

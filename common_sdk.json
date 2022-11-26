@@ -13,6 +13,8 @@
     {
       "$type": "txtrlist",
       "textures": [
+        "texture/ui_atlas/rui/weapon_icons/r5/ammo_icons",
+
         "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
         "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
         "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
@@ -250,7 +252,1271 @@
         "texture/models/creatures_r5/spider/spider_white/spider_white_spc",
         "texture/models/creatures_r5/spider/spider_white/spider_white_ilm",
         "texture/models/creatures_r5/spider/spider_white/spider_white_ao",
-        "texture/models/creatures_r5/spider/spider_white/spider_white_thk"
+        "texture/models/creatures_r5/spider/spider_white/spider_white_thk",
+
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_col",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_nml",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_gls",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_spc",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_ao",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_cav",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_thk",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_asd",
+
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_col",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_nml",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_gls",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_spc",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_ao",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_cav",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_thk",
+
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_col",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_nml",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_gls",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_spc",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_ao",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_cav",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_opa",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_asd",
+
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_col",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_nml",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_gls",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_spc",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_ilm",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_ao",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_cav",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_asd",
+
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_ilm",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_ao",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_cav",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_asd",
+
+        "texture/models/humans/pilots_r5/pilot_loba/loba_tactical_col",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_tactical_nml",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_tactical_gls",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_tactical_spc",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_tactical_ao",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_tactical_cav",
+
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_col",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_nml",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_gls",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_spc",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_ao",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_cav",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_thk",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_asd",
+
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_spc",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_ao",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_cav",
+
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_body_skin_01/pilot_med_reaper_m_body_skin_01_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_body_skin_01/pilot_med_reaper_m_body_skin_01_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_body_skin_01/pilot_med_reaper_m_body_skin_01_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_body_skin_01/pilot_med_reaper_m_body_skin_01_spc",
+
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_spc",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_ilm",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_ao",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_cav",
+
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_spc",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_ilm",
+
+        "texture/models/humans/titanpilot_gsuits/pilot_v3_head/pilot_v3_head_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_v3_head/pilot_v3_head_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_v3_head/pilot_v3_head_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_v3_head/pilot_v3_head_spc",
+        "texture/models/humans/titanpilot_gsuits/pilot_v3_head/pilot_v3_head_ao",
+
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_spc",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_ilm",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_ao",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_cav",
+
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_albedoTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_normalTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_glossTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_specTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_emissiveTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_aoTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_opacityMultiplyTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_detailTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_emissiveMultiplyTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_uvDistortionTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_uvDistortion2Texture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_layerBlendTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_albedo2Texture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_normal2Texture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_gloss2Texture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_spec2Texture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_emissive2Texture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ao2Texture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_IndirectSpecularTextureCubeArray",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_CSMDepthAtlasTexture"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_sni_blend",
+      "type": "rgdp",
+      "shaderset": 2378219299521690556,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_albedoTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_normalTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_glossTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_specTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_emissiveTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_aoTexture",
+        "",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_opacityMultiplyTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_detailTexture",
+        "",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_emissiveMultiplyTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_uvDistortionTexture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_uvDistortion2Texture",
+        "",
+        "",
+        "",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_layerBlendTexture",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_albedo2Texture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_normal2Texture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_gloss2Texture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_spec2Texture",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_emissive2Texture",
+        "",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ao2Texture",
+        "",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_IndirectSpecularTextureCubeArray",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_CSMDepthAtlasTexture"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/titanpilot_gsuits/pilot_medium_v_helmets/pilot_med_helmet_v2_skn_31",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 4096,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_spc",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_ilm",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_ao",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/titanpilot_gsuits/pilot_medium_v_helmets/pilot_med_helmet_v2_skn_02",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 4096,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_spc",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_ilm",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_ao",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_helmet_v2_skn_02/pilot_med_helmet_v2_skn_02_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/titanpilot_heads/pilot_v3_head",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans/titanpilot_gsuits/pilot_v3_head/pilot_v3_head_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_v3_head/pilot_v3_head_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_v3_head/pilot_v3_head_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_v3_head/pilot_v3_head_spc",
+        "",
+        "texture/models/humans/titanpilot_gsuits/pilot_v3_head/pilot_v3_head_ao"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_gear_skin_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 4221990506101211378,
+      "width": 2048,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_spc",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_ilm"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_gear_skin_31",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 4221990506101211378,
+      "width": 2048,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_spc",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gear_skin_01/pilot_med_reaper_m_gear_skin_01_ilm"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_gauntlet1_skin_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8403185417549714111,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_spc",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_ilm",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_ao",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_gauntlet_skin_31",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8403185417549714111,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_spc",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_ilm",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_ao",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_gauntlet1_skin_01/pilot_med_reaper_m_gauntlet1_skin_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_body_skin_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8213833473093334948,
+      "width": 4096,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_body_skin_01/pilot_med_reaper_m_body_skin_01_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_body_skin_01/pilot_med_reaper_m_body_skin_01_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_body_skin_01/pilot_med_reaper_m_body_skin_01_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_body_skin_01/pilot_med_reaper_m_body_skin_01_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_body_skin_31",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8213833473093334948,
+      "width": 4096,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_body_skin_01/pilot_med_reaper_m_body_skin_01_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_body_skin_01/pilot_med_reaper_m_body_skin_01_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_body_skin_01/pilot_med_reaper_m_body_skin_01_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_m_body_skin_01/pilot_med_reaper_m_body_skin_01_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_jumpkit_skin_02",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_spc",
+        "",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_ao",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_jumpkit_skin_31",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_col",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_nml",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_gls",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_spc",
+        "",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_ao",
+        "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/common/loba_body_common",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rare/loba_body_rare",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_01/loba_body_epic_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_02/loba_body_epic_02",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_03/loba_body_epic_03",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_04/loba_body_epic_04",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_05/loba_body_epic_05",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus_treasurehunter/loba_body_rareplus_treasurehunter",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epicplus_boosted/loba_body_epicplus_boosted",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/common/loba_viewmodel_arms_common",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rare/loba_viewmodel_arms_rare",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_01/loba_viewmodel_arms_epic_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_02/loba_viewmodel_arms_epic_02",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_03/loba_viewmodel_arms_epic_03",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_04/loba_viewmodel_arms_epic_04",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_05/loba_viewmodel_arms_epic_05",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/twitch_rareplus_treasurehunter/loba_twitch_rareplus_treasurehunter_viewmodel_arms",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus/steampunk/loba_rareplus_steampunk_viewmodel_arms",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus/goddess/loba_rareplus_goddess_viewmodel_arms",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus_treasurehunter/loba_viewmodel_arms_rareplus_treasurehunter",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epicplus_boosted/loba_viewmodel_arms_epicplus_boosted",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus_treasurehunter/loba_gear_rareplus_treasurehunter",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epicplus_boosted/loba_gear_epicplus_boosted",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/twitch_rareplus_treasurehunter/loba_body_twitch_rareplus_treasurehunter",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus/steampunk/loba_body_rareplus_steampunk",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus/goddess/loba_body_rareplus_goddess",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/common/loba_face_common",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_01/loba_face_epic_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_02/loba_face_epic_02",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_03/loba_face_epic_03",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_04/loba_face_epic_04",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_05/loba_face_epic_05",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/twitch_rareplus_treasurehunter/loba_face_twitch_rareplus_treasurehunter",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus/steampunk/loba_face_rareplus_steampunk",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus/goddess/loba_face_rareplus_goddess",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/common/loba_gear_common",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rare/loba_gear_rare",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_01/loba_gear_epic_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_02/loba_gear_epic_02",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_03/loba_gear_epic_03",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_04/loba_gear_epic_04",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/epic_05/loba_gear_epic_05",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/twitch_rareplus_treasurehunter/loba_gear_twitch_rareplus_treasurehunter",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus/steampunk/loba_gear_rareplus_steampunk",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus/goddess/loba_gear_rareplus_goddess",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/common/loba_hair_common",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/twitch_rareplus_treasurehunter/loba_hair_twitch_rareplus_treasurehunter",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus/steampunk/loba_hair_rareplus_steampunk",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/skins/rareplus/goddess/loba_hair_rareplus_goddess",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/loba_viewmodel_arms",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 18158174394679440997,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_col",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_nml",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_gls",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_spc",
+        "",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_ao",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_cav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_thk",
+        "",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_viewmodel_arms/loba_viewmodel_arms_asd"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/loba_tactical",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/pilots_r5/pilot_loba/loba_tactical_col",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_tactical_nml",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_tactical_gls",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_tactical_spc",
+        "",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_tactical_ao",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_tactical_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/misc_loba_loot_map/loba_loot_map",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_col",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_nml",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_gls",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_spc",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_ilm",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_ao",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_cav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/models/weapons_r5/misc_loba_loot_map/loba_loot_map_asd"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/loba_gear",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14370084986703461024,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_col",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_nml",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_gls",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_spc",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_ilm",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_ao",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_cav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_gear/loba_gear_asd"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/loba_hair",
+      "type": "sknp",
+      "cputype": "weapon",
+      "visibilityflags": "opaque",
+      "shaderset": 1636883169042920362,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_col",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_nml",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_gls",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_spc",
+        "",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_ao",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_cav",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_opa",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_hair/loba_hair_asd"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/loba_face",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 18158174394679440997,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_col",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_nml",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_gls",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_spc",
+        "",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_ao",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_cav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_face/loba_face_thk"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r5/pilots_r5/pilot_loba/loba_body",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 18158174394679440997,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_col",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_nml",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_gls",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_spc",
+        "",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_ao",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_cav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_thk",
+        "",
+        "texture/models/humans/pilots_r5/pilot_loba/loba_body/loba_body_asd"
       ]
     },
     {
@@ -1800,6 +3066,266 @@
         "animseq/weapons/epg/ptpov_epg/sprintholster_seq.rseq",
         "animseq/weapons/epg/ptpov_epg/sprintraise_onehanded_seq_slide.rseq"
       ]
+    },
+    {
+      "$type": "arig",
+      "path": "animrig/weapons/loba_rings/ptpov_loba_rings.rrig",
+      "animseqs": [
+        "animseq/weapons/loba_rings/ptpov_loba_rings/draw_to_idle.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/fail.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/holster.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/holster_onehanded.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/lower.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/lower_onehanded.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/pickup.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/place.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/post_toss_01.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/post_toss_02.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss_hold.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss_hold_onehanded.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss_hold_sprinting.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss_prep_pullout.rseq",
+        "animseq/weapons/loba_rings/ptpov_loba_rings/toss_to_wait.rseq"
+      ]
+    },
+    {
+      "$type": "arig",
+      "path": "animrig/props/loba_loot_stick/loba_loot_stick.rrig",
+      "animseqs": [
+        "animseq/class/medium/dmx/animation/cane_loba_gladcard_static_powerstaff.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_deploy.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_deploy_idle.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_destroy.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_gladcard_animated_dagger.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_gladcard_animated_dagger_idle.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_menu_ready_up.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_menu_ready_up_idle.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_menu_select.rseq",
+        "animseq/props/loba_loot_cane/mp_prop_lootcane_menu_select_idle.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_freefall_loba_thunder.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_freefall_loba_witch.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_animated_handspring.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_animated_handspring_idle.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_dropdown.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_loot.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_p2011.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_p2020.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_portaljump.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_powerstance.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_gladcard_static_queen.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_menu_lobby_cane.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_menu_lobby_center_select_idle.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_menu_lobby_idle.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_menu_lobby_idle_alt.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_loba_menu_lobby_makeup.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/cane_menu_lobby_right_idle.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/loba_stick_gladcard_animated_turnaround.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/loba_stick_gladcard_animated_turnaround_idle.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/loba_stomp_execution_lootcane.rseq",
+        "animseq/props/loba_loot_stick/loba_loot_stick/mp_pt_loba_cane_loot_idle.rseq"
+      ]
+    },
+    {
+      "$type": "arig",
+      "path": "animrig/humans/class/medium/pilot_medium_loba.rrig",
+      "animseqs": [
+        "animseq/humans/class/medium/pilot_medium_loba/AIM_loba_crouch_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/AIM_loba_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/AIM_mirage_crouch_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/AIM_mirage_idle_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/AIM_mirage_sprint_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_anticipate.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_anticipate_to_freefall.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_combat_idle_aim.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_combat_idle_aim_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_bracelet.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_frag.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_idle_aim.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_idle_aim_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_pistol_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_pistol_aim.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_pistol_alt.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_pistol_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_rifle_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_rifle_alt.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_rifle_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_staff_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_star.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_thermite.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouch_UA_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchFire_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchFire_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchFire_rifle_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchLoot_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchLoot_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_bracelet_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_pistol_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_pistol_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_pistol_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_pistol_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_rifle_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_rifle_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_rocket_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_rocket_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_satchel_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_satchel_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_staff_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_staff_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_crouchWalk_UA_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_execution_base.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_execution_pointblank.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_execution_pointblank_loot.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_fire_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_fire_pistol_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_fire_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_fire_rifle_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_freefall.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_freefall_dive.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_freefall_emote_genericFlip.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_freefall_emote_thunder.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_freefall_emote_witch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_freefall_to_anticipate.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_baitswitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_baitswitch_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_dagger.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_dagger_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_expensive.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_expensive_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_handspring.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_handspring_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_treasure.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_treasure_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_turnaround.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_animated_turnaround_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_dropdown.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_levitate.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_loot.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_mirror.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_p2011.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_p2020.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_portaljump.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_powerstaff.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_powerstance.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_queen.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_gladcard_static_temp.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_bracelet.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_frag.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_pistol_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_pistol_ADS_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_pistol_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_rifle_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_rifle_ADS_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_rifle_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_staff_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_star.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_thermite.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idle_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idleLoot_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_idleLoot_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_center_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_center_idle_alt.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_center_twitch.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_center_twitch_makeup.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_left_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_right_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_lobby_select_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_loot_ceremony.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_select.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_select_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_select_readyUp.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_menu_select_readyUp_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_pistol_aim.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_bracelet_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_bracelet_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_bracelet_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_bracelet_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_pistol_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_pistol_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_pistol_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_pistol_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_rifle_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_rifle_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_rifle_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_rifle_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_shadow_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_staff_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_staff_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_UA_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_run_UA_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_slide_staff_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_sprint_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_sprint_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_sprint_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_sprint_staff.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_sprint_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_tactical_pullout.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_tactical_throw.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_teaser_lobby_scene.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_teaser_lobby_scene_alt.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_ultimate_crouchThrow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_ultimate_pullout.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_ultimate_throw.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_updraft.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_updraft_downed.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_victim_revenant_execution_lurk.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_victory_shadow.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_bracelet_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_bracelet_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_bracelet_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_bracelet_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_pistol_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_pistol_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_pistol_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_pistol_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_rifle_ADS_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_rifle_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_rifle_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_rifle_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_shadow_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_staff_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_staff_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_UA_B.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/loba_walk_UA_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_AIM_mirage_run_jogger_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_AIM_mirage_run_rifle_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_AIM_mirage_sprint_bounding.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_AIM_mirage_sprint_rifle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_AIM_mirage_walk_rifle_ADS_F.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_mirage_AIM_ads.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_mirage_AIM_idle.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/mp_pt_medium_mirage_AIM_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_loba_slide_backward.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_loba_slide_forward.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_loba_slide_left.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_loba_slide_right.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_AIM_faceaim_sprint.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_AIM_idle_satchel.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_AIM_run_rifle_forward.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_run_backward_ORD.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_run_forward_ORD.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_sprint_ORD.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_walk_backward_ORD.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mirage_walk_forward_ORD.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_crouch_grenade_aims.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_medium_aim_crouch_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_medium_aim_crouch_pistol_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_medium_aim_crouch_satchel.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_medium_aim_crouchmove_pistol_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_medium_aim_crouchmove_rocket_ADS.rseq",
+        "animseq/humans/class/medium/pilot_medium_loba/TMP_mp_pt_medium_crouch_high_idle_AIM.rseq"
+      ]
+    },
+    {
+      "$type": "arig",
+      "path": "animrig/weapons/arms/pov_pilot_medium_loba.rrig"
     },
     {
       "$type": "arig",
@@ -3574,6 +5100,47 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/humans/pilots/pilot_medium_reaper_m.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_jumpkit_skin_02_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_jumpkit_skin_31_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_gauntlet1_skin_01_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_gauntlet_skin_31_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_gear_skin_01_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_gear_skin_31_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_body_skin_01_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_body_skin_31_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_v_helmets/pilot_med_helmet_v2_skn_02_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_v_helmets/pilot_med_helmet_v2_skn_31_sknp",
+        "models/humans/titanpilot_heads/pilot_v3_head_sknp"
+      ],
+      "animrigs": [
+        "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
+        "animrig/humans/class/medium/pilot_medium_holo.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/humans/pilots/pov_pilot_medium_reaper_m.rmdl",
+      "usePhysics": false,
+      "materials": [
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_jumpkit_skin_02_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_jumpkit_skin_31_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_gauntlet1_skin_01_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_gauntlet_skin_31_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_gear_skin_01_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_gear_skin_31_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_body_skin_01_sknp",
+        "models/humans/titanpilot_gsuits/pilot_medium_reaper/pilot_med_reaper_m_body_skin_31_sknp",
+        "depth/models/humans_r5/pilots_r5/pilot_bangalore/bangalore_hair_prepass_sknp",
+        "depth/models/humans_r5/pilots_r5/pilot_bangalore/bangalore_hair_prepass_sknp",
+        "depth/models/humans_r5/pilots_r5/pilot_bangalore/bangalore_hair_prepass_sknp"
+      ],
+      "animrigs": ["animrig/weapons/arms/pov_mp_core.rrig"]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/weapons/epg/w_epg.rmdl",
       "usePhysics": true,
       "materials": [
@@ -3630,6 +5197,129 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/Humans/class/medium/pilot_medium_loba.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/humans_r5/pilots_r5/pilot_loba/loba_body_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "",
+        "models/humans_r5/pilots_r5/pilot_loba/loba_face_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_loba/loba_gear_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_loba/loba_gear_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_loba/loba_hair_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "",
+        ""
+      ],
+      "animrigs": [
+        "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
+        "animrig/humans/class/medium/pilot_medium_loba.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/arms/pov_pilot_medium_loba.rmdl",
+      "usePhysics": false,
+      "materials": [
+        "models/humans_r5/pilots_r5/pilot_loba/loba_body_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_loba/loba_tactical_sknp",
+        "models/humans_r5/pilots_r5/pilot_loba/loba_viewmodel_arms_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_loba/loba_gear_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp",
+        "models/humans_r5/pilots_r5/pilot_pathfinder/skins/legendary_01/Pathfinder_body_legendary01_sknp"
+      ],
+      "animrigs": [
+        "animrig/weapons/arms/pov_mp_core.rrig",
+        "animrig/weapons/arms/pov_pilot_medium_loba.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/props/loba_loot_stick/loba_loot_stick.rmdl",
+      "usePhysics": true,
+      "materials": ["models/weapons_r5/misc_loba_loot_map/loba_loot_map_sknp"],
+      "animrigs": ["animrig/props/loba_loot_stick/loba_loot_stick.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/loba_rings/ptpov_loba_rings.rmdl",
+      "usePhysics": false,
+      "materials": ["models/humans_r5/pilots_r5/pilot_loba/loba_tactical_sknp"],
+      "animrigs": ["animrig/weapons/loba_rings/ptpov_loba_rings.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/w_loba_rings/w_loba_rings.rmdl",
+      "usePhysics": true,
+      "materials": ["models/humans_r5/pilots_r5/pilot_loba/loba_tactical_sknp"]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/Creatures/prowler/prowler_apex.rmdl",
       "usePhysics": true,
       "materials": [
@@ -3674,6 +5364,15 @@
       "animrigs": [
         "animrig/humans/grunts/grunts_corpse_poses.rrig",
         "animrig/humans/pete/ai_infected_core.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons_r5/loot/_master/w_loot_wep_ammo_sniper.rmdl",
+      "usePhysics": true,
+      "static": true,
+      "materials": [
+        "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_sni_blend_rgdp"
       ]
     },
     {
@@ -3737,6 +5436,27 @@
       "path": "mdl/weapons/kunai/ptpov_data_knife.rmdl",
       "usePhysics": false,
       "animrigs": ["animrig/weapons/kunai/ptpov_kunai_wraith.rrig"]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/ammo_icons",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/ammo_icons",
+      "textures": [
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_sniper",
+          "posX": 421,
+          "posY": 55,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_explosive",
+          "posX": 55,
+          "posY": 55,
+          "width": 256,
+          "height": 256
+        }
+      ]
     }
   ]
 }
