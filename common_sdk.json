@@ -13,8 +13,6 @@
     {
       "$type": "txtrlist",
       "textures": [
-        "texture/ui_atlas/rui/weapon_icons/r5/ammo_icons",
-
         "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
         "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
         "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
