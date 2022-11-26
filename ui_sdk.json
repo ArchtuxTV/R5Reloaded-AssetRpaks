@@ -13,349 +13,160 @@
       "textures": [
         "texture/ui_atlas/rui/menu/maps/maps",
         "texture/ui_atlas/rui/hud/icons/icons",
-        "texture/ui_atlas/rui/weapon_icons/r5/weapon_icons",
-        "texture/ui_atlas/rui/weapon_icons/r5/weapon_sentinel",
-        "texture/ui_atlas/rui/weapon_icons/r5/weapon_smart_pistol",
-        "texture/ui_atlas/rui/weapon_icons/r5/weapon_softball",
-        "texture/ui_atlas/rui/weapon_icons/r5/weapon_sidewinder",
-        "texture/ui_atlas/rui/weapon_icons/r5/weapon_archer",
-        "texture/ui_atlas/rui/weapon_icons/r5/weapon_volt_smg",
-        "texture/ui_atlas/rui/weapon_icons/r5/weapon_throwingknife",
-        "texture/ui_atlas/rui/weapon_icons/r5/weapon_wingman_n",
-        "texture/ui_atlas/rui/weapon_icons/r5/volt_triangle_bars",
-        "texture/ui_atlas/rui/weapon_icons/r5/epg_burst",
-        "texture/ui_atlas/rui/weapon_icons/r5/epg_burst_background",
-        "texture/ui_atlas/rui/weapon_icons/r5/weapon_rampart_turret",
-        "texture/ui_atlas/rui/weapon_icons/r5/weapon_epg",
-        "texture/ui_atlas/rui/weapon_icons/r5/crosshair_triangle_afterburner",
-        "texture/ui_atlas/rui/weapon_icons/r5/crosshair_triangle_afterburner_shadow",
-        "texture/ui_atlas/rui/weapon_icons/r5/crosshair_triangle",
-        "texture/ui_atlas/rui/weapon_icons/r5/sniper_ammo",
-        "texture/ui_atlas/rui/weapon_icons/r5/explosive_ammo",
-        "texture/ui_atlas/rui/weapon_icons/r5/crosshair_triangle_shadow",
-        "texture/ui_atlas/rui/weapon_icons/r5/smart_pistol_crosshair",
-        "texture/ui_atlas/rui/pilot_loadout/ordnance/satchel"
+        "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas"
       ]
     },
     {
       "$type": "uimg",
-      "path": "ui_image_atlas/rui/pilot_loadout/ordnance/satchel",
-      "atlas": "texture/ui_atlas/rui/pilot_loadout/ordnance/satchel",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/kral_sdk_atlas",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas",
       "textures": [
         {
-          "path": "rui/pilot_loadout/ordnance/satchel",
-          "width": 128,
-          "height": 128,
-          "posX": 0,
-          "posY": 0
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/smart_pistol_crosshair",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/smart_pistol_crosshair",
-      "textures": [
-        {
-          "path": "rui/hud/smart_core/smart_ammo_bracket",
-          "posX": 55,
-          "posY": 55,
+          "path": "rui/hud/crosshairs/crosshair_triangle",
+          "posX": 10,
+          "posY": 10,
           "width": 512,
           "height": 512
         },
-        {
-          "path": "rui/hud/smart_core/smart_ammo_lock_image",
-          "posX": 677,
-          "posY": 55,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "rui/hud/smart_core/smart_ammo_measure",
-          "posX": 55,
-          "posY": 677,
-          "width": 512,
-          "height": 512
-        },
-        {
-          "path": "rui/hud/crosshairs/smart_ammo_corner",
-          "posX": 1299,
-          "posY": 421,
-          "width": 256,
-          "height": 256
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/crosshair_triangle_afterburner",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/crosshair_triangle_afterburner",
-      "textures": [
         {
           "path": "rui/hud/crosshairs/crosshair_triangle_afterburner",
-          "posX": 0,
-          "posY": 0,
+          "posX": 542,
+          "posY": 10,
           "width": 512,
           "height": 512
         },
         {
           "path": "rui/hud/crosshairs/crosshair_triangle_afterburner_shadow",
-          "posX": 0,
-          "posY": 0,
+          "posX": 10,
+          "posY": 542,
           "width": 512,
           "height": 512
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/crosshair_triangle",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/crosshair_triangle",
-      "textures": [
+        },
         {
-          "path": "rui/hud/crosshairs/crosshair_triangle",
-          "posX": 0,
-          "posY": 0,
+          "path": "srui/hud/mart_ammo_bracket",
+          "posX": 542,
+          "posY": 542,
           "width": 512,
           "height": 512
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/sniper_ammo",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/sniper_ammo",
-      "textures": [
+        },
         {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_sniper",
-          "posX": 0,
-          "posY": 0,
-          "width": 256,
-          "height": 256
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/explosive_ammo",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/explosive_ammo",
-      "textures": [
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_explosive",
-          "posX": 0,
-          "posY": 0,
-          "width": 256,
-          "height": 256
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/crosshair_triangle_shadow",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/crosshair_triangle_shadow",
-      "textures": [
-        {
-          "path": "rui/hud/crosshairs/crosshair_triangle_shadow",
-          "posX": 0,
-          "posY": 0,
+          "path": "rui/hud/smart_core/smart_ammo_lock_image",
+          "posX": 1074,
+          "posY": 10,
           "width": 512,
           "height": 512
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/epg_burst",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/epg_burst",
-      "textures": [
+        },
         {
-          "path": "models/weapons/attachments/epg_burst",
-          "posX": 0,
-          "posY": 0,
-          "width": 64,
-          "height": 64
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/epg_burst_background",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/epg_burst_background",
-      "textures": [
-        {
-          "path": "models/weapons/attachments/epg_burst_background",
-          "posX": 0,
-          "posY": 0,
-          "width": 64,
-          "height": 64
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_icons",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_icons",
-      "textures": [
-        {
-          "path": "rui/weapon_icons/r5/weapon_car",
-          "posX": 0,
-          "posY": 320,
-          "width": 640,
-          "height": 320
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_sidewinder",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_sidewinder",
-      "textures": [
-        {
-          "path": "r2_ui/menus/loadout_icons/anti_titan/at_sidewinder",
-          "posX": 0,
-          "posY": 0,
+          "path": "rui/hud/smart_core/smart_ammo_measure",
+          "posX": 1074,
+          "posY": 542,
           "width": 512,
-          "height": 256
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_sentinel",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_sentinel",
-      "textures": [
+          "height": 512
+        },
         {
-          "path": "rui/weapon_icons/r5/weapon_sentinel",
-          "posX": 0,
-          "posY": 0,
+          "path": "rui/hud/titan_weapon_railgun",
+          "posX": 10,
+          "posY": 1074,
           "width": 640,
           "height": 320
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_smart_pistol",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_smart_pistol",
-      "textures": [
-        {
-          "path": "rui/weapon_icons/r5/weapon_smart_pistol",
-          "posX": 0,
-          "posY": 0,
-          "width": 256,
-          "height": 128
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_softball",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_softball",
-      "textures": [
-        {
-          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_softball",
-          "posX": 0,
-          "posY": 0,
-          "width": 256,
-          "height": 128
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_epg",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_epg",
-      "textures": [
-        {
-          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_epg1",
-          "posX": 0,
-          "posY": 0,
-          "width": 256,
-          "height": 128
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_archer",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_archer",
-      "textures": [
-        {
-          "path": "r2_ui/menus/loadout_icons/anti_titan/at_archer",
-          "posX": 0,
-          "posY": 0,
-          "width": 256,
-          "height": 128
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_volt_smg",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_volt_smg",
-      "textures": [
-        {
-          "path": "rui/weapon_icons/r5/weapon_volt",
-          "posX": 0,
-          "posY": 0,
-          "width": 640,
-          "height": 320
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_throwingknife",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_throwingknife",
-      "textures": [
-        {
-          "path": "rui/weapon_icons/r5/weapon_throwingknife",
-          "posX": 0,
-          "posY": 0,
-          "width": 256,
-          "height": 128
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_wingman_n",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_wingman_n",
-      "textures": [
-        {
-          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_wingman_elite",
-          "posX": 0,
-          "posY": 0,
-          "width": 256,
-          "height": 128
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_rampart_turret",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_rampart_turret",
-      "textures": [
+        },
         {
           "path": "rui/weapon_icons/r5/weapon_rampart_turret",
-          "posX": 0,
-          "posY": 0,
+          "posX": 670,
+          "posY": 1074,
           "width": 640,
           "height": 320
-        }
-      ]
-    },
-    {
-      "$type": "uimg",
-      "path": "ui_image_atlas/rui/weapon_icons/r5/volt_triangle_bars",
-      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/volt_triangle_bars",
-      "textures": [
+        },
         {
-          "path": "models/weapons/attachments/volt_triangle_bars",
-          "posX": 0,
-          "posY": 0,
-          "width": 224,
-          "height": 160
+          "path": "rui/weapon_icons/r5/weapon_sentinel",
+          "posX": 10,
+          "posY": 1414,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_volt",
+          "posX": 670,
+          "posY": 1414,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/anti_titan/at_sidewinder",
+          "posX": 1330,
+          "posY": 1074,
+          "width": 512,
+          "height": 256
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_explosive",
+          "posX": 1330,
+          "posY": 1350,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "rui/hud/crosshairs/smart_ammo_corner",
+          "posX": 1606,
+          "posY": 1350,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_sniper",
+          "posX": 1862,
+          "posY": 10,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/anti_titan/at_archer",
+          "posX": 1862,
+          "posY": 286,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_epg1",
+          "posX": 1862,
+          "posY": 434,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_smart_pistol",
+          "posX": 1862,
+          "posY": 582,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_softball",
+          "posX": 1862,
+          "posY": 730,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_throwingknife",
+          "posX": 1606,
+          "posY": 878,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "models/weapons/attachments/epg_burst",
+          "posX": 1862,
+          "posY": 1026,
+          "width": 64,
+          "height": 64
+        },
+        {
+          "path": "models/weapons/attachments/epg_burst_background",
+          "posX": 1882,
+          "posY": 878,
+          "width": 64,
+          "height": 64
         }
       ]
     },
