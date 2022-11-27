@@ -11,6 +11,10 @@
 
   "files": [
     {
+      "$type": "dtbl",
+      "path": "datatable/survival_loot_sdk"
+    },
+    {
       "$type": "txtrlist",
       "textures": [
         "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
