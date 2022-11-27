@@ -358,8 +358,57 @@
 
         "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_col",
         "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ilm",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_col2",
-        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ilm2"
+
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_col",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_ilm",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_ilm2",
+
+        "texture/models/Weapons_R2/data_knife/data_knife_glass_col",
+        "texture/models/Weapons_R2/data_knife/data_knife_glass_nml",
+        "texture/models/Weapons_R2/data_knife/data_knife_glass_gls",
+        "texture/models/Weapons_R2/data_knife/data_knife_glass_spc",
+        "texture/models/Weapons_R2/data_knife/data_knife_glass_opa"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_exp_blend",
+      "type": "rgdp",
+      "shaderset": 2378219299521690556,
+      "ilmtint": [1.0, 1.0, 1.0],
+      "cpu": "cpu/wep_test_pickups_ammo_exp_blend",
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_col",
+        3531264949961635812,
+        7410099657257040276,
+        17977908158269311930,
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_ilm",
+        3217909929491047341,
+        "",
+        "",
+        "",
+        "",
+        "",
+        16371403591942019181,
+        16371403591942019181,
+        "",
+        "",
+        "",
+        7524701640875380521,
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_col",
+        35312649499616358124,
+        7410099657257040276,
+        17977908158269311930,
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_ilm2",
+        "",
+        3217909929491047341
       ]
     },
     {
@@ -367,6 +416,7 @@
       "path": "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_sni_blend",
       "type": "rgdp",
       "shaderset": 3444865890171848327,
+      "ilmtint": [1.0, 1.0, 1.0],
       "cpu": "cpu/wep_test_pickups_ammo_sni_blend",
       "width": 2048,
       "height": 2048,
@@ -7644,7 +7694,7 @@
         "",
         "",
         "",
-        "models/humans_r5/pilots_r5/pilot_caustic/caustic_lense_sknp",
+        "models/Weapons_R2/data_knife/data_knife_glass_sknp",
         "models/weapons_r2/attachments/pro_screen_sknp"
       ],
       "animrigs": ["animrig/weapons/shoulder_rocket_sram/ptpov_law.rrig"],
@@ -8089,6 +8139,15 @@
       "animrigs": [
         "animrig/humans/grunts/grunts_corpse_poses.rrig",
         "animrig/humans/pete/ai_infected_core.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons_r5/loot/_master/w_loot_wep_ammo_exp.rmdl",
+      "usePhysics": true,
+      "static": true,
+      "materials": [
+        "models/test/weapons_test/pickups_test/wep_test_pickups_ammo_exp_blend_rgdp"
       ]
     },
     {
