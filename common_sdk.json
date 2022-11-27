@@ -531,7 +531,73 @@
         "texture/models/humans/pilots_r5/pilot_revenant/revenant_tactical/revenant_tactical_gls",
         "texture/models/humans/pilots_r5/pilot_revenant/revenant_tactical/revenant_tactical_spc",
         "texture/models/humans/pilots_r5/pilot_revenant/revenant_tactical/revenant_tactical_ao",
-        "texture/models/humans/pilots_r5/pilot_revenant/revenant_tactical/revenant_tactical_cav"
+        "texture/models/humans/pilots_r5/pilot_revenant/revenant_tactical/revenant_tactical_cav",
+
+        "texture/models/vehicle/crow_dropship/crow_dropship_hero_01/crow_dropship_hero_01_col",
+        "texture/models/vehicle/crow_dropship/crow_dropship_hero_01/crow_dropship_hero_01_nml",
+        "texture/models/vehicle/crow_dropship/crow_dropship_hero_03/crow_dropship_hero_03_col",
+        "texture/models/vehicle/crow_dropship/crow_dropship_hero_03/crow_dropship_hero_03_nml"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/vehicle/crow_dropship/crow_dropship_hero_01",
+      "type": "rgdp",
+      "cpu": "cpu/crow_dropship_hero_01",
+      "shaderset": 3918825562514114522,
+      "flags": 1901312,
+      "flags2": 1442840608,
+      "visflags": 17,
+      "drawflags": 6,
+      "unkflags": 4,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/vehicle/crow_dropship/crow_dropship_hero_01/crow_dropship_hero_01_col",
+        "texture/models/vehicle/crow_dropship/crow_dropship_hero_01/crow_dropship_hero_01_nml",
+        14009197603805282631,
+        6151919165116503870
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/vehicle/crow_dropship/crow_dropship_hero_02",
+      "type": "rgdp",
+      "cpu": "cpu/crow_dropship_hero_02",
+      "shaderset": 4221990506101211378,
+      "flags": 1901312,
+      "flags2": 1442840608,
+      "visflags": 17,
+      "drawflags": 6,
+      "unkflags": 4,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        11044185000396685890,
+        3475712772475864142,
+        14009197603805282631,
+        6151919165116503870,
+        5709683540307540850
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/vehicle/crow_dropship/crow_dropship_hero_03",
+      "type": "rgdp",
+      "cpu": "cpu/crow_dropship_hero_03",
+      "shaderset": 3918825562514114522,
+      "flags": 1901312,
+      "flags2": 1442840614,
+      "visflags": 7,
+      "drawflags": 6,
+      "unkflags": 5,
+      "width": 256,
+      "height": 256,
+      "textures": [
+        "texture/models/vehicle/crow_dropship/crow_dropship_hero_03/crow_dropship_hero_03_col",
+        "texture/models/vehicle/crow_dropship/crow_dropship_hero_03/crow_dropship_hero_03_nml",
+        14009197603805282631,
+        6151919165116503870
       ]
     },
     {
@@ -8616,19 +8682,19 @@
       "$type": "rmdl",
       "path": "mdl/vehicle/crow_dropship/crow_dropship_dest_l_wing.rmdl",
       "static": true,
-      "usePhysics": false
+      "usePhysics": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/vehicle/crow_dropship/crow_dropship_dest_nose.rmdl",
       "static": true,
-      "usePhysics": false
+      "usePhysics": true
     },
     {
       "$type": "rmdl",
       "path": "mdl/vehicle/crow_dropship/crow_dropship_dest_r_wing.rmdl",
       "static": true,
-      "usePhysics": false
+      "usePhysics": true
     },
     {
       "$type": "rmdl",
