@@ -8287,6 +8287,21 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/vehicle/crow_dropship/crow_dropship_dest_l_wing.rmdl",
+      "usePhysics": false
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/vehicle/crow_dropship/crow_dropship_dest_nose.rmdl",
+      "usePhysics": false
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/vehicle/crow_dropship/crow_dropship_dest_r_wing.rmdl",
+      "usePhysics": false
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/Creatures/prowler/prowler_apex.rmdl",
       "usePhysics": true,
       "materials": [
