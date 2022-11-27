@@ -8288,16 +8288,19 @@
     {
       "$type": "rmdl",
       "path": "mdl/vehicle/crow_dropship/crow_dropship_dest_l_wing.rmdl",
+      "static": true,
       "usePhysics": false
     },
     {
       "$type": "rmdl",
       "path": "mdl/vehicle/crow_dropship/crow_dropship_dest_nose.rmdl",
+      "static": true,
       "usePhysics": false
     },
     {
       "$type": "rmdl",
       "path": "mdl/vehicle/crow_dropship/crow_dropship_dest_r_wing.rmdl",
+      "static": true,
       "usePhysics": false
     },
     {
