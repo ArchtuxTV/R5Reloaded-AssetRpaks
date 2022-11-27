@@ -1,3 +1,2 @@
-ui_sdk.rpak
-common_sdk.rpak
-pc_all.sdk.starpak
+*.rpak
+*.starpak
