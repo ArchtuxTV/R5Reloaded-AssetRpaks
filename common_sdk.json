@@ -584,6 +584,23 @@
     },
     {
       "$type": "matl",
+      "path": "models/robotics_r2/drone_air_attack/rbt_drone_air_skn_02",
+      "type": "sknp",
+      "cpu": "cpu/rbt_drone_air_skn_02",
+      "shaderset": "FixedVertexShaderSet",
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        7553493772033047188,
+        8413453522776723319,
+        12292288229968067382,
+        4391695522741984214,
+        1903243707355063999,
+        8100098501577712041
+      ]
+    },
+    {
+      "$type": "matl",
       "path": "models/vehicle/crow_dropship/crow_dropship_hero_01",
       "type": "rgdp",
       "cpu": "cpu/crow_dropship_hero_01",
@@ -666,6 +683,16 @@
       "$type": "matl",
       "path": "DONOTRENDER",
       "type": "sknp",
+      "visflags": "colpass",
+      "drawflags": "wireframe",
+      "width": 512,
+      "height": 512,
+      "textures": ["", "", "", ""]
+    },
+    {
+      "$type": "matl",
+      "path": "DONOTRENDER",
+      "type": "rgdp",
       "visflags": "colpass",
       "drawflags": "wireframe",
       "width": 512,
@@ -3056,7 +3083,19 @@
         "animseq/creatures/flyer/r2_flyer/fl_timeshift_reactor_circling_g.rseq",
         "animseq/creatures/flyer/r2_flyer/fl_timeshift_reactor_circling_h.rseq",
         "animseq/creatures/flyer/r2_flyer/fl_timeshift_reactor_circling_i.rseq",
-        "animseq/creatures/flyer/r2_flyer/fl_timeshift_reactor_circling_j.rseq"
+        "animseq/creatures/flyer/r2_flyer/fl_timeshift_reactor_circling_j.rseq",
+
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/a_fly_back.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/a_fly_forward.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/animref.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/die.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_fast.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_idle.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_indoor.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_spin.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/inspect1.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/inspect2.rseq"
       ]
     },
     {
@@ -3680,6 +3719,20 @@
         "animseq/creatures/flyer/r2_flyer/head_rot_x.rseq",
         "animseq/creatures/flyer/r2_flyer/head_rot_y.rseq",
         "animseq/creatures/flyer/r2_flyer/head_rot_z.rseq"
+      ]
+    },
+    {
+      "$type": "arig",
+      "path": "animrig/robots/drone_air_attack/drone_air_attack_plasma.rrig",
+      "animseqs": [
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/aim_layer.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/aim_layer.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/aim_run.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/aim_walk.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/alert.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/attack.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/idle.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/reload.rseq"
       ]
     },
     {
@@ -8947,7 +9000,10 @@
         "DONOTRENDER_sknp",
         "DONOTRENDER_sknp"
       ],
-      "animrigs": ["animrig/weapons/arms/pov_mp_core.rrig"]
+      "animrigs": [
+        "animrig/weapons/arms/pov_mp_core.rrig",
+        "animrig/weapons/arms/pov_pilot_medium_bloodhound.rrig"
+      ]
     },
     {
       "$type": "rmdl",
@@ -9189,6 +9245,27 @@
       "usePhysics": false,
       "materials": ["", ""],
       "animrigs": ["animrig/weapons/empty_handed/ptpov_boxinghand.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/robots/drone_air_attack/drone_air_attack_plasma.rmdl",
+      "usePhysics": true,
+      "animrigs": [
+        "animrig/robots/drone_air_attack/drone_air_attack_plasma.rrig"
+      ],
+      "animseqs": [
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/a_fly_back.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/a_fly_forward.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/animref.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/die.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_fast.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_idle.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_indoor.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/dr_activate_drone_spin.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/inspect1.rseq",
+        "animseq/robots/drone_air_attack/drone_air_attack_plasma/inspect2.rseq"
+      ]
     },
     {
       "$type": "rmdl",
