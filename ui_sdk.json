@@ -17,6 +17,34 @@
       ]
     },
     {
+      "$type": "matl",
+      "path": "code_private/ui",
+      "type": "rgdu",
+      "shaderset": 9105745588357930080,
+      "flags": 26,
+      "flags2": 134,
+      "visflags": 7,
+      "drawflags": 94,
+      "unkflags": 13,
+      "width": 2048,
+      "height": 2048,
+      "textures": ["", "", "", "", "", "", ""]
+    },
+    {
+      "$type": "matl",
+      "path": "code_private/ui_world",
+      "type": "rgdu",
+      "flags": 26,
+      "flags2": 134,
+      "visflags": 7,
+      "drawflags": 94,
+      "unkflags": 13,
+      "shaderset": 9105745588357930080,
+      "width": 2048,
+      "height": 2048,
+      "textures": ["", "", "", "", "", "", ""]
+    },
+    {
       "$type": "uimg",
       "path": "ui_image_atlas/rui/weapon_icons/r5/kral_sdk_atlas",
       "atlas": "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas",
