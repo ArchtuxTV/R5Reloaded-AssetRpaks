@@ -587,7 +587,7 @@
       "path": "models/robotics_r2/drone_air_attack/rbt_drone_air_skn_02",
       "type": "sknp",
       "cpu": "cpu/rbt_drone_air_skn_02",
-      "shaderset": "FixedVertexShaderSet",
+      "shaderset": 16972104323120309423,
       "width": 2048,
       "height": 2048,
       "textures": [
