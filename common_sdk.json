@@ -8697,6 +8697,7 @@
       "$type": "rmdl",
       "path": "mdl/creatures/flyer/r2_flyer.rmdl",
       "usePhysics": true,
+      "solid": false,
       "materials": [
         "models/creatures_r2/flyer/c_a_flyer_skin01_sknp",
         "models/creatures_r2/flyer/c_a_flyer_skin02_sknp"
