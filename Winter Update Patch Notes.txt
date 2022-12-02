@@ -1,0 +1,85 @@
+New Weapon: Northstar Flight Core
+Yes! You heard it right. Northstar Flight Core ability is now in R5Reloaded!
+15 Damage per projectile. Can destroy doors.
+
+New Weapon: Sheila
+Rampart's turret Sheila is here! Works in same way with retail version
+Can't be place to the ground, requires energy ammo
+
+New Weapon: Softball
+-
+
+New Weapon: Sidewinder
+-
+
+New Weapon: Archer
+-
+
+New Weapon: Epg
+-
+
+New Weapon: Wingman Elite
+-
+
+New Weapon: Throwing Knife
+-
+
+New Heirloom: Boxing Gloves
+-
+
+New Heirloom: Dataknife Kunai
+-
+
+New Heirloom: Combat Katana
+-
+
+New Ammo Types: Explosive and Sniper Ammos!
+-
+
+New Loot: Level 5 Body Shield
+-
+
+New Legends: Loba, Rampart and Revenant
+-
+
+New Character Model: Pilot
+-
+
+New Ability: Satchel
+Works in same way with Titanfall version, once equipped you can deploy 3 satchel to the ground.
+Can stick to objects and entities, does 120 damage per Satchel
+
+New NPCs: Grunt Pilot
+-
+
+New NPCs: GunShip
+-
+
+New NPCs: Plasma Drone
+-
+
+New NPCs: Rocket Drone
+-
+
+New NPCs: R2 Flyers
+-
+
+New NPCs: Legend Dummies
+Don't let their look surprise you, they are still dummies
+They will act like regular dummie NPCs but they look like Wraith, Mirage or Caustic
+To Spawn: 
+
+New Map: Party Crasher
+Party Crasher arenas map is now playable on r5reloaded!
+Please report the bugs you see on the map.
+
+General Updates:
+
+Prowler textures updated, now they will look like how they supposed to.
+Marvin health updated: 10 --> 100
+Map triggers updated.
+Missing sentinel material prints fixed. 
+Pathfinder's hand USB now visible on survey beacons.
+
+Content and Bug Fix Credits
+-
