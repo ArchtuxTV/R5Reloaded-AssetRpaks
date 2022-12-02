@@ -1,7 +1,7 @@
 Main assets rpaks for R5Reloaded Modded Apex Project, used for custom assets. (Models, ui icons and many more)
 If you wanna add any asset send me a message on discord (KralRindo#0797)
 
-Made by @KralRindo
+Made by @KralRindo, also gonna credit Zer0Bytes#4428 for his helps on repak, and some assets that can be found in here.
 
 Usage: Download the repo, drop "ui_sdk.json" and "common_sdk.json" into repak.exe. 
 It will create asset rpaks in "build" folder, copy them and drop into "r5reloaded/paks/win64" folder.
