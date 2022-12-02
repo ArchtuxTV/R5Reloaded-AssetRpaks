@@ -29,13 +29,6 @@
           "height": 512
         },
         {
-          "path": "rui/hud/crosshairs/crosshair_triangle_shadow",
-          "posX": 10,
-          "posY": 10,
-          "width": 512,
-          "height": 512
-        },
-        {
           "path": "rui/hud/crosshairs/crosshair_triangle_afterburner",
           "posX": 542,
           "posY": 10,
@@ -50,128 +43,149 @@
           "height": 512
         },
         {
-          "path": "srui/hud/mart_ammo_bracket",
+          "path": "rui/hud/crosshairs/crosshair_triangle_shadow",
           "posX": 542,
           "posY": 542,
           "width": 512,
           "height": 512
         },
         {
-          "path": "rui/hud/smart_core/smart_ammo_lock_image",
+          "path": "srui/hud/mart_ammo_bracket",
           "posX": 1074,
           "posY": 10,
           "width": 512,
           "height": 512
         },
         {
-          "path": "rui/hud/smart_core/smart_ammo_measure",
+          "path": "rui/hud/smart_core/smart_ammo_lock_image",
           "posX": 1074,
           "posY": 542,
           "width": 512,
           "height": 512
         },
         {
-          "path": "rui/hud/titan_weapon_railgun",
+          "path": "rui/hud/smart_core/smart_ammo_measure",
           "posX": 10,
+          "posY": 1074,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/titan_weapon_railgun",
+          "posX": 542,
           "posY": 1074,
           "width": 640,
           "height": 320
         },
         {
           "path": "rui/weapon_icons/r5/weapon_rampart_turret",
-          "posX": 670,
+          "posX": 1202,
           "posY": 1074,
           "width": 640,
           "height": 320
         },
         {
           "path": "rui/weapon_icons/r5/weapon_sentinel",
-          "posX": 10,
-          "posY": 1414,
+          "posX": 1606,
+          "posY": 10,
           "width": 640,
           "height": 320
         },
         {
           "path": "rui/weapon_icons/r5/weapon_volt",
-          "posX": 670,
-          "posY": 1414,
+          "posX": 1606,
+          "posY": 350,
           "width": 640,
           "height": 320
         },
         {
           "path": "r2_ui/menus/loadout_icons/anti_titan/at_sidewinder",
-          "posX": 1330,
-          "posY": 1074,
+          "posX": 1606,
+          "posY": 690,
           "width": 512,
           "height": 256
         },
         {
           "path": "rui/hud/gametype_icons/survival/sur_ammo_explosive",
-          "posX": 1330,
-          "posY": 1350,
+          "posX": 1862,
+          "posY": 966,
           "width": 256,
           "height": 256
         },
         {
           "path": "rui/hud/crosshairs/smart_ammo_corner",
-          "posX": 1606,
-          "posY": 1350,
+          "posX": 1862,
+          "posY": 1242,
           "width": 256,
           "height": 256
         },
         {
           "path": "rui/hud/gametype_icons/survival/sur_ammo_sniper",
-          "posX": 1862,
-          "posY": 10,
+          "posX": 542,
+          "posY": 1414,
           "width": 256,
           "height": 256
         },
         {
+          "path": "models/weapons/attachments/volt_triangle_bars",
+          "posX": 10,
+          "posY": 1606,
+          "width": 224,
+          "height": 160
+        },
+        {
           "path": "r2_ui/menus/loadout_icons/anti_titan/at_archer",
-          "posX": 1862,
-          "posY": 286,
+          "posX": 254,
+          "posY": 1606,
           "width": 256,
           "height": 128
         },
         {
           "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_epg1",
-          "posX": 1862,
-          "posY": 434,
+          "posX": 530,
+          "posY": 1690,
           "width": 256,
           "height": 128
         },
         {
           "path": "rui/weapon_icons/r5/weapon_smart_pistol",
-          "posX": 1862,
-          "posY": 582,
+          "posX": 806,
+          "posY": 1690,
           "width": 256,
           "height": 128
         },
         {
           "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_softball",
-          "posX": 1862,
-          "posY": 730,
+          "posX": 818,
+          "posY": 1518,
           "width": 256,
           "height": 128
         },
         {
           "path": "rui/weapon_icons/r5/weapon_throwingknife",
-          "posX": 1606,
-          "posY": 878,
+          "posX": 1082,
+          "posY": 1666,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_wingman_elite",
+          "posX": 1094,
+          "posY": 1518,
           "width": 256,
           "height": 128
         },
         {
           "path": "models/weapons/attachments/epg_burst",
-          "posX": 1862,
-          "posY": 1026,
+          "posX": 1606,
+          "posY": 966,
           "width": 64,
           "height": 64
         },
         {
           "path": "models/weapons/attachments/epg_burst_background",
-          "posX": 1882,
-          "posY": 878,
+          "posX": 1690,
+          "posY": 966,
           "width": 64,
           "height": 64
         }
