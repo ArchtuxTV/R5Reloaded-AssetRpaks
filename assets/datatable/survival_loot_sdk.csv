@@ -13,5 +13,5 @@
 "","PING_WEAPON_WINGMAN_ELITE","","mp_weapon_wingman_n","main_weapon","pistol",1,"","","mag","","","",0,"","","survival_loot_pickup_weapon_wingman_n","survival_loot_pickup_3p_weapon_wingman_n","","",1,1,"",0.0,0,0,0,0,0,0
 "","PING_WEAPON_SMART_PISTOL","","mp_weapon_smart_pistol","main_weapon","pistol",1,"","","sight mag","","","",0,"","","survival_loot_pickup_weapon_smart_pistol","survival_loot_pickup_3p_weapon_smart_pistol","","",1,1,"",0.0,0,0,0,0,0,0
 "","PING_WEAPON_SENTINEL","","mp_weapon_sentinel","main_weapon","sniper",1,"","","sight mag barrel grip","","","",0,"","","survival_loot_pickup_weapon_sniper","survival_loot_pickup_3p_weapon_sniper","","",1,1,"",0.0,0,0,0,0,0,0
-"","PING_WEAPON_THROWINGKNIFE","","mp_weapon_throwingknife","main_weapon","pistol",1,"","","","","","",0,"","","","","","",1,1,"",0.0,0,0,0,0,0,0
+"","PING_WEAPON_THROWINGKNIFE","","mp_weapon_throwingknife","main_weapon","pistol",1,"","","","","","",0,"","","survival_loot_pickup_ArcBlade","survival_loot_pickup_3p_ArcBlade","","",1,1,"",0.0,0,0,0,0,0,0
 "string","string","string","string","string","string","int","string","string","string","assetnoprecache","assetnoprecache","asset","int","string","string","string","string","string","string","int","int","string","float","int","int","int","bool","bool","bool"

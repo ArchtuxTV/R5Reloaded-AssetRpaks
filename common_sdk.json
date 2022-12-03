@@ -554,7 +554,32 @@
         "texture/models/weapons/w_combat_katana/w_combat_katana_nml",
         "texture/models/weapons/w_combat_katana/w_combat_katana_spc",
         "texture/models/weapons/w_combat_katana/w_combat_katana_ao",
-        "texture/models/weapons/w_combat_katana/w_combat_katana_ilm"
+        "texture/models/weapons/w_combat_katana/w_combat_katana_ilm",
+
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_col",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_nml",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_gls",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_spc",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_ilm",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_ao",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/Weapons_R2/Arc_tool_sp/sp_arc_tool",
+      "type": "sknp",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_col",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_nml",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_gls",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_spc",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_ilm",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_ao",
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_cav"
       ]
     },
     {
@@ -1655,7 +1680,7 @@
       "visflags": 7,
       "drawflags": 6,
       "unkflags": 5,
-      "shaderset": 17085369352497512393,
+      "shaderset": 1505050536870049905,
       "width": 512,
       "height": 512,
       "textures": [
@@ -3145,6 +3170,32 @@
         "animseq/robots/drone_air_attack/drone_air_attack_rockets/dr_activate_drone_spin.rseq",
         "animseq/robots/drone_air_attack/drone_air_attack_rockets/inspect1.rseq",
         "animseq/robots/drone_air_attack/drone_air_attack_rockets/inspect2.rseq"
+      ]
+    },
+    {
+      "$type": "arig",
+      "path": "animrig/weapons/sp_arc_tool/ptpov_arc_tool.rrig",
+      "animseqs": [
+        "animseq/weapons/arc_tool/ptpov_arc_tool/crouch.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/crouch_to_idle.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/fire_blend.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/holster.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/idle_air.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/idle_to_crouch.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/jump.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/land.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/land_high.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/land_low.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/land_med.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/draw.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/raise.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/raise_to_crouch.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/raise_to_idle.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/raise_to_sprint.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/sprint.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/sprintjump.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/sprintraise.rseq",
+        "animseq/weapons/arc_tool/ptpov_arc_tool/sprintslide.rseq"
       ]
     },
     {
@@ -9460,6 +9511,19 @@
         "animrig/humans/grunts/grunts_corpse_poses.rrig",
         "animrig/humans/pete/ai_infected_core.rrig"
       ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/sp_arc_tool/ptpov_arc_tool.rmdl",
+      "usePhysics": false,
+      "materials": ["models/Weapons_R2/sp_arc_tool/sp_arc_tool_sknp"],
+      "animrigs": ["animrig/weapons/sp_arc_tool/ptpov_arc_tool.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/sp_arc_tool/w_arc_tool.rmdl",
+      "usePhysics": true,
+      "materials": ["models/Weapons_R2/sp_arc_tool/sp_arc_tool_sknp"]
     },
     {
       "$type": "rmdl",
