@@ -567,7 +567,7 @@
     },
     {
       "$type": "matl",
-      "path": "models/Weapons_R2/Arc_tool_sp/sp_arc_tool",
+      "path": "models/Weapons_R2/sp_arc_tool/sp_arc_tool",
       "type": "sknp",
       "shaderset": 8900632333082111100,
       "width": 2048,
