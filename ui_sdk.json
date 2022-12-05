@@ -12,7 +12,7 @@
       "$type": "txtrlist",
       "textures": [
         "texture/ui_atlas/rui/menu/maps/maps",
-        "texture/ui_atlas/rui/hud/icons/icons",
+        "texture/ui_atlas/rui/hud/icons/hud_atlas",
         "texture/ui_atlas/rui/weapon_icons/r5/kral_sdk_atlas"
       ]
     },
@@ -193,27 +193,34 @@
     },
     {
       "$type": "uimg",
-      "path": "ui_image_atlas/rui/hud/icons/icons",
-      "atlas": "texture/ui_atlas/rui/hud/icons/icons",
+      "path": "ui_image_atlas/rui/hud/icons/hud_atlas",
+      "atlas": "texture/ui_atlas/rui/hud/icons/hud_atlas",
       "textures": [
         {
-          "path": "rui/hud/tactical_icons/pilot_tactical_particle_wall",
-          "posX": 0,
-          "posY": 0,
+          "path": "rui/hud/tactical_icons/pilot_tactical_3dash",
+          "posX": 10,
+          "posY": 10,
           "width": 128,
           "height": 128
         },
         {
-          "path": "rui/hud/tactical_icons/pilot_tactical_3dash",
-          "posX": 128,
-          "posY": 0,
+          "path": "rui/hud/tactical_icons/pilot_tactical_particle_wall",
+          "posX": 158,
+          "posY": 10,
           "width": 128,
           "height": 128
         },
         {
           "path": "rui/hud/custom_badges/r5r_badge",
-          "posX": 256,
-          "posY": 0,
+          "posX": 10,
+          "posY": 158,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/pilot_loadout/ordnance/satchel",
+          "posX": 158,
+          "posY": 158,
           "width": 128,
           "height": 128
         }
