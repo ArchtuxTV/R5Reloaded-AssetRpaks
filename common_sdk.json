@@ -9075,6 +9075,59 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/titans/medium/titan_medium_ion_prime.rmdl",
+      "usePhysics": true,
+      "static": false,
+      "materials": [
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/dev/radio_reference.rmdl",
+      "usePhysics": false,
+      "materials": [
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp",
+        "models/weapons/softball_at/softball_at_skin01_sknp"
+      ],
+      "animseqs": [
+        "animseq/weapons/softball_at/w_softball_at/attack_seq.rseq",
+        "animseq/weapons/softball_at/w_softball_at/idle_seq.rseq"
+      ]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/weapons/softball_at/w_softball_at.rmdl",
       "usePhysics": true,
       "materials": [
