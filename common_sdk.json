@@ -566,7 +566,219 @@
         "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_spc",
         "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_ilm",
         "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_ao",
-        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_cav"
+        "texture/models/weapons_r2/sp_arc_tool/sp_arc_tool_cav",
+
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_col",
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_nml",
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_gls",
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_spc",
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_ilm",
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_ao",
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_cav",
+
+        "texture/models/titans/ajax/t_m_ajax_b_v1_d_skin01/t_m_ajax_b_v1_d_skin01_col",
+        "texture/models/titans/ajax/t_m_ajax_b_v1_d_skin01/t_m_ajax_b_v1_d_skin01_nml",
+        "texture/models/titans/ajax/t_m_ajax_b_v1_d_skin01/t_m_ajax_b_v1_d_skin01_gls",
+        "texture/models/titans/ajax/t_m_ajax_b_v1_d_skin01/t_m_ajax_b_v1_d_skin01_spc",
+        "texture/models/titans/ajax/t_m_ajax_b_v1_d_skin01/t_m_ajax_b_v1_d_skin01_ilm",
+
+        "texture/models/titans/ajax/t_m_ajax_d_v1_skin01/t_m_ajax_d_v1_skin01_col",
+        "texture/models/titans/ajax/t_m_ajax_d_v1_skin01/t_m_ajax_d_v1_skin01_nml",
+        "texture/models/titans/ajax/t_m_ajax_d_v1_skin01/t_m_ajax_d_v1_skin01_gls",
+        "texture/models/titans/ajax/t_m_ajax_d_v1_skin01/t_m_ajax_d_v1_skin01_spc",
+
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_col",
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_nml",
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_gls",
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_spc",
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_ilm",
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_ao",
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_cav",
+
+        "texture/models/titans_r2/medium_ion/nose_art/nose_art_v00/t_m_ion_nose_art_v00/t_m_ion_nose_art_v00_col",
+        "texture/models/titans_r2/medium_ion/nose_art/nose_art_v00/t_m_ion_nose_art_v00/t_m_ion_nose_art_v00_nml",
+        "texture/models/titans_r2/medium_ion/nose_art/nose_art_v00/t_m_ion_nose_art_v00/t_m_ion_nose_art_v00_gls",
+        "texture/models/titans_r2/medium_ion/nose_art/nose_art_v00/t_m_ion_nose_art_v00/t_m_ion_nose_art_v00_spc",
+        "texture/models/titans_r2/medium_ion/nose_art/nose_art_v00/t_m_ion_nose_art_v00/t_m_ion_nose_art_v00_opa",
+
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg/t_m_ion_prime_dmg_col",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg/t_m_ion_prime_dmg_nml",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg/t_m_ion_prime_dmg_gls",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg/t_m_ion_prime_dmg_spc",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg/t_m_ion_prime_dmg_ao",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg/t_m_ion_prime_dmg_cav",
+
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg/t_m_ion_prime_hatch_dmg_col",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg/t_m_ion_prime_hatch_dmg_nml",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg/t_m_ion_prime_hatch_dmg_gls",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg/t_m_ion_prime_hatch_dmg_spc",
+
+        "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_col",
+        "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_nml",
+        "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_gls",
+        "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_spc",
+        "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_ao",
+        "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_cav",
+
+        "texture/models/titans/titan_ar_marker/titan_ar_marker_col",
+
+        "texture/models/weapons/attachments/acgs_sight/acgs_sight_col",
+        "texture/models/weapons/attachments/acgs_sight/acgs_sight_nml",
+        "texture/models/weapons/attachments/acgs_sight/acgs_sight_gls",
+        "texture/models/weapons/attachments/acgs_sight/acgs_sight_spc",
+        "texture/models/weapons/attachments/acgs_sight/acgs_sight_ao",
+        "texture/models/weapons/attachments/acgs_sight/acgs_sight_cav",
+
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_col",
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_nml",
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_gls",
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_spc",
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_ilm",
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_ao",
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02",
+      "type": "sknp",
+      "shaderset": 8900632333082111100,
+      "width": 4096,
+      "height": 4096,
+      "textures": [
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_col",
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_nml",
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_gls",
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_spc",
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_ilm",
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_ao",
+        "texture/models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02/t_m_ion_warpaint_skin02_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/titans/ajax/t_m_ajax_b_v1_d_skin01",
+      "type": "sknp",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/titans/ajax/t_m_ajax_b_v1_d_skin01/t_m_ajax_b_v1_d_skin01_col",
+        "texture/models/titans/ajax/t_m_ajax_b_v1_d_skin01/t_m_ajax_b_v1_d_skin01_nml",
+        "texture/models/titans/ajax/t_m_ajax_b_v1_d_skin01/t_m_ajax_b_v1_d_skin01_gls",
+        "texture/models/titans/ajax/t_m_ajax_b_v1_d_skin01/t_m_ajax_b_v1_d_skin01_spc",
+        "texture/models/titans/ajax/t_m_ajax_b_v1_d_skin01/t_m_ajax_b_v1_d_skin01_ilm"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/titans/ajax/t_m_ajax_d_v1_skin01",
+      "type": "sknp",
+      "shaderset": 8900632333082111100,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/titans/ajax/t_m_ajax_d_v1_skin01/t_m_ajax_d_v1_skin01_col",
+        "texture/models/titans/ajax/t_m_ajax_d_v1_skin01/t_m_ajax_d_v1_skin01_nml",
+        "texture/models/titans/ajax/t_m_ajax_d_v1_skin01/t_m_ajax_d_v1_skin01_gls",
+        "texture/models/titans/ajax/t_m_ajax_d_v1_skin01/t_m_ajax_d_v1_skin01_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01",
+      "type": "sknp",
+      "shaderset": 8900632333082111100,
+      "width": 4096,
+      "height": 4096,
+      "textures": [
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_col",
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_nml",
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_gls",
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_spc",
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_ilm",
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_ao",
+        "texture/models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01/t_m_ion_prime_warpaint_skin01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/titans_r2/medium_ion/nose_art/nose_art_v00/t_m_ion_nose_art_v00",
+      "type": "sknp",
+      "shaderset": 8900632333082111100,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/titans_r2/medium_ion/nose_art/nose_art_v00/t_m_ion_nose_art_v00/t_m_ion_nose_art_v00_col",
+        "texture/models/titans_r2/medium_ion/nose_art/nose_art_v00/t_m_ion_nose_art_v00/t_m_ion_nose_art_v00_nml",
+        "texture/models/titans_r2/medium_ion/nose_art/nose_art_v00/t_m_ion_nose_art_v00/t_m_ion_nose_art_v00_gls",
+        "texture/models/titans_r2/medium_ion/nose_art/nose_art_v00/t_m_ion_nose_art_v00/t_m_ion_nose_art_v00_spc",
+        "",
+        "",
+        "",
+        "texture/models/titans_r2/medium_ion/nose_art/nose_art_v00/t_m_ion_nose_art_v00/t_m_ion_nose_art_v00_opa"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg",
+      "type": "sknp",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg/t_m_ion_prime_dmg_col",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg/t_m_ion_prime_dmg_nml",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg/t_m_ion_prime_dmg_gls",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg/t_m_ion_prime_dmg_spc",
+        "",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg/t_m_ion_prime_dmg_ao",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg/t_m_ion_prime_dmg_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg",
+      "type": "sknp",
+      "shaderset": 8900632333082111100,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg/t_m_ion_prime_hatch_dmg_col",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg/t_m_ion_prime_hatch_dmg_nml",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg/t_m_ion_prime_hatch_dmg_gls",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg/t_m_ion_prime_hatch_dmg_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/titans/titan_ar_marker/titan_ar_marker",
+      "type": "sknp",
+      "shaderset": 8900632333082111100,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/titans/titan_ar_marker/titan_ar_marker_col",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/titans_r2/titan_destruction/titan_damaged_limbs",
+      "type": "sknp",
+      "shaderset": 8900632333082111100,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_col",
+        "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_nml",
+        "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_gls",
+        "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_spc",
+        "",
+        "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_ao",
+        "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_cav"
       ]
     },
     {
@@ -1526,6 +1738,24 @@
         "",
         "texture/models/Weapons_R2/attachments/IAL_laser/IAL_laser_ao",
         "texture/models/Weapons_R2/attachments/IAL_laser/IAL_laser_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons/attachments/acgs_sight",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14215749032054338550,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/weapons/attachments/acgs_sight/acgs_sight_col",
+        "texture/models/weapons/attachments/acgs_sight/acgs_sight_nml",
+        "texture/models/weapons/attachments/acgs_sight/acgs_sight_gls",
+        "texture/models/weapons/attachments/acgs_sight/acgs_sight_spc",
+        "",
+        "texture/models/weapons/attachments/acgs_sight/acgs_sight_ao",
+        "texture/models/weapons/attachments/acgs_sight/acgs_sight_cav"
       ]
     },
     {
@@ -2941,6 +3171,23 @@
       "shaderset": 12024133449294937,
       "width": 2048,
       "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_col",
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_nml",
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_gls",
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_spc",
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_ilm",
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_ao",
+        "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/Weapons_R2/attachments/charge_rifle_optic",
+      "type": "sknp",
+      "shaderset": 12024133449294937,
+      "width": 1024,
+      "height": 1024,
       "textures": [
         "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_col",
         "texture/models/weapons_r5/iron_sight_AR/iron_sight_AR_nml",
@@ -9078,52 +9325,20 @@
       "path": "mdl/titans/medium/titan_medium_ion_prime.rmdl",
       "usePhysics": true,
       "static": false,
-      "materials": [
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp"
-      ]
-    },
-    {
-      "$type": "rmdl",
-      "path": "mdl/dev/radio_reference.rmdl",
-      "usePhysics": false,
-      "materials": [
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp",
-        "models/weapons/softball_at/softball_at_skin01_sknp"
+      "animrigs": [
+        "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
+        "animrig/humans/class/medium/mp_pilot_medium_empty.rrig"
       ],
-      "animseqs": [
-        "animseq/weapons/softball_at/w_softball_at/attack_seq.rseq",
-        "animseq/weapons/softball_at/w_softball_at/idle_seq.rseq"
+      "materials": [
+        "models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01_sknp",
+        "models/titans/ajax/t_m_ajax_b_v1_d_skin01_sknp",
+        "models/titans/ajax/t_m_ajax_d_v1_skin01_sknp",
+        "models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02_sknp",
+        "models/titans_r2/medium_ion/nose_art/nose_art_v00/t_m_ion_nose_art_v00_sknp",
+        "models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_dmg_sknp",
+        "models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg_sknp",
+        "models/titans_r2/titan_destruction/titan_damaged_limbs_sknp",
+        "models/titans_r2/medium_ion_prime/warpaint/warpaint_01/t_m_ion_prime_warpaint_skin01_sknp"
       ]
     },
     {
@@ -9671,6 +9886,23 @@
       "$type": "rmdl",
       "path": "mdl/weapons/wingman_elite/ptpov_wingman_elite.rmdl",
       "usePhysics": false,
+      "materials": [
+        "models/Weapons_R2/wingman_elite/wingman_elite_sknp",
+        "models/Weapons_R2/wingman_elite/wingman_elite_skin31_sknp",
+        "models/Weapons_R2/wingman_elite/wingman_elite_prime_01_sknp",
+        "models/Weapons_R2/wingman_elite/wingman_elite_prime_02_sknp",
+        "models/Weapons_R2/wingman_elite/wingman_elite_prime_03_sknp",
+        "models/Weapons_R2/wingman_elite/wingman_elite_prime_04_sknp",
+        "models/Weapons_R2/wingman_elite/wingman_elite_prime_05_sknp",
+        "models/Weapons_R2/wingman_elite/wingman_elite_prime_06_sknp",
+        "models/weapons/b3_wingman/b3_wingman_sknp",
+        "models/weapons/attachments/suppressors_sknp",
+        "models/Weapons_R2/attachments/hcog2_optic_sknp",
+        "models/weapons/attachments/acgs_sight_sknp",
+        "models/Weapons_R2/attachments/charge_rifle_optic_sknp",
+        "models/weapons/attachments/rifle_scope_lens_sknp",
+        "models/Weapons_R2/attachments/pro_screen_sknp"
+      ],
       "animrigs": ["animrig/weapons/b3wing/ptpov_b3wing.rrig"]
     },
     {
