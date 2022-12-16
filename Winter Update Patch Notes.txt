@@ -27,6 +27,9 @@ New Weapon: Wingman Elite
 New Weapon: Throwing Knife
 -
 
+New Weapon: Smart Pistol
+-
+
 New Heirloom: Boxing Gloves
 -
 
