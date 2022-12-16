@@ -18,6 +18,9 @@ New Weapon: Archer
 New Weapon: Epg
 -
 
+New Weapon: Car SMG
+-
+
 New Weapon: Wingman Elite
 -
 
