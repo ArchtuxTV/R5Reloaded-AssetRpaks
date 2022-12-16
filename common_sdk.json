@@ -648,7 +648,15 @@
         "texture/models/Weapons_R2/car_smg/CAR_smg/CAR_smg_spc",
         "texture/models/Weapons_R2/car_smg/CAR_smg/CAR_smg_ilm",
         "texture/models/Weapons_R2/car_smg/CAR_smg/CAR_smg_ao",
-        "texture/models/Weapons_R2/car_smg/CAR_smg/CAR_smg_cav"
+        "texture/models/Weapons_R2/car_smg/CAR_smg/CAR_smg_cav",
+
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_col",
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_nml",
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_gls",
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_spc",
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ilm",
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ao",
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_cav"
       ]
     },
     {
@@ -1769,6 +1777,24 @@
         "",
         "texture/models/weapons/attachments/acgs_sight/acgs_sight_ao",
         "texture/models/weapons/attachments/acgs_sight/acgs_sight_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6",
+      "type": "sknp",
+      "cpu": "cpu/Smart_Pistol_MK6_bullet",
+      "shaderset": 1075725809503985265,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        8195898390103050569,
+        7659178075644738527,
+        12422510642454100643,
+        15643388167095980290,
+        3451067336626219440,
+        16473364964945910780,
+        9522529030942125294
       ]
     },
     {
@@ -3030,6 +3056,23 @@
         "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_spc",
         "",
         "texture/models/weapons_r2/t_l_northstar01_rockets_v1_skin01/t_l_northstar01_rockets_v1_skin01_ao"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/titans/buddy/cine_eye/BT_a_eye_cine",
+      "type": "sknp",
+      "shaderset": 12024133449294937,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_col",
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_nml",
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_gls",
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_spc",
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ilm",
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ao",
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_cav"
       ]
     },
     {
@@ -9463,6 +9506,33 @@
       "materials": [
         "models/weapons_r5/loot/shield_battery/w_loot_wep_iso_shield_battery_glass_rgdp"
       ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/p2011sp/ptpov_p2011sp.rmdl",
+      "usePhysics": false,
+      "materials": [
+        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
+        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
+        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
+        "models/weapons/attachments/suppressors_sknp",
+        "models/Weapons_R2/attachments/pro_screen_sknp",
+        "models/titans/buddy/cine_eye/BT_a_eye_cine_sknp"
+      ],
+      "animrigs": ["animrig/weapons/p2011/ptpov_p2011.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/p2011sp/w_p2011sp.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
+        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
+        "models/Weapons_R2/smart_pistol/Smart_Pistol_MK6_sknp",
+        "models/weapons/attachments/suppressors_sknp",
+        "models/Weapons_R2/attachments/pro_screen_sknp"
+      ],
+      "animrigs": ["animrig/weapons/p2011/w_p2011.rrig"]
     },
     {
       "$type": "rmdl",
