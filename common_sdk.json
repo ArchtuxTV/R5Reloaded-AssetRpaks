@@ -656,7 +656,36 @@
         "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_spc",
         "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ilm",
         "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ao",
-        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_cav"
+        "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_cav",
+
+        "texture/models/weapons/r101/r101_col",
+        "texture/models/weapons/r101/r101_nml",
+        "texture/models/weapons/r101/r101_gls",
+        "texture/models/weapons/r101/r101_spc",
+        "texture/models/weapons/r101/r101_ilm",
+        "texture/models/weapons/r101/r101_ao",
+        "texture/models/weapons/r101/r101_cav",
+
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_col",
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_nml",
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_gls",
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_spc",
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_ilm",
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_ao",
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_cav",
+
+        "texture/models/Weapons_R2/attachments/il_bal/il_bal_col",
+        "texture/models/Weapons_R2/attachments/il_bal/il_bal_nml",
+        "texture/models/Weapons_R2/attachments/il_bal/il_bal_gls",
+        "texture/models/Weapons_R2/attachments/il_bal/il_bal_spc",
+        "texture/models/Weapons_R2/attachments/il_bal/il_bal_ao",
+        "texture/models/Weapons_R2/attachments/il_bal/il_bal_cav",
+
+        "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_col",
+        "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_nml",
+        "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_gls",
+        "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_spc",
+        "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_opa"
       ]
     },
     {
@@ -806,7 +835,8 @@
       "$type": "matl",
       "path": "models/Weapons_R2/sp_arc_tool/sp_arc_tool",
       "type": "sknp",
-      "shaderset": 8900632333082111100,
+      "ilmtint": [1.0, 1.0, 1.0],
+      "shaderset": 12024133449294937,
       "width": 2048,
       "height": 2048,
       "textures": [
@@ -1981,6 +2011,79 @@
         "",
         "texture/models/Weapons_R2/epg/epg_mag/epg_mag_ao",
         "texture/models/Weapons_R2/epg/epg_mag/epg_mag_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons/r101/r101",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8403185417549714111,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons/r101/r101_col",
+        "texture/models/weapons/r101/r101_nml",
+        "texture/models/weapons/r101/r101_gls",
+        "texture/models/weapons/r101/r101_spc",
+        "texture/models/weapons/r101/r101_ilm",
+        "texture/models/weapons/r101/r101_ao",
+        "texture/models/weapons/r101/r101_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/Weapons_R2/r101_sfp/r101_sfp",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8403185417549714111,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_col",
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_nml",
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_gls",
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_spc",
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_ilm",
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_ao",
+        "texture/models/Weapons_R2/r101_sfp/r101_sfp_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/Weapons_R2/attachments/il_bal",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8403185417549714111,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/Weapons_R2/attachments/il_bal/il_bal_col",
+        "texture/models/Weapons_R2/attachments/il_bal/il_bal_nml",
+        "texture/models/Weapons_R2/attachments/il_bal/il_bal_gls",
+        "texture/models/Weapons_R2/attachments/il_bal/il_bal_spc",
+        "",
+        "texture/models/Weapons_R2/attachments/il_bal/il_bal_ao",
+        "texture/models/Weapons_R2/attachments/il_bal/il_bal_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons/attachments/aog_r1_lense",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14215749032054338550,
+      "width": 512,
+      "height": 512,
+      "textures": [
+        "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_col",
+        "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_nml",
+        "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_gls",
+        "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_spc",
+        "",
+        "",
+        "",
+        "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_opa"
       ]
     },
     {
@@ -10043,10 +10146,36 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/weapons/r101_sfp/ptpov_r101_sfp.rmdl",
+      "usePhysics": false,
+      "materials": [
+        "models/weapons/r101/r101_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/attachments/il_bal_sknp",
+        "models/Weapons_R2/attachments/hcog2_optic_sknp",
+        "models/weapons/attachments/acgs_sight_sknp",
+        "models/Weapons_R2/attachments/charge_rifle_optic_sknp",
+        "models/weapons/attachments/rifle_scope_lens_sknp",
+        "models/weapons_r5/attachments/optics/aog_r1/aog_r1_sknp",
+        "models/weapons_r5/attachments/optics/aog_r1/aog_r1_sknp",
+        "models/weapons/attachments/aog_r1_lense_sknp",
+        "models/Weapons_R2/attachments/pro_screen_sknp"
+      ],
+      "animrigs": ["animrig/weapons/rspn101/ptpov_rspn101.rrig"]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/weapons/sp_arc_tool/ptpov_arc_tool.rmdl",
       "usePhysics": false,
       "materials": ["models/Weapons_R2/sp_arc_tool/sp_arc_tool_sknp"],
-      "animrigs": ["animrig/weapons/sp_arc_tool/ptpov_arc_tool.rrig"]
+      "animrigs": ["animrig/weapons/defender/ptpov_defender.rrig"]
     },
     {
       "$type": "rmdl",
