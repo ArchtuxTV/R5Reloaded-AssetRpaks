@@ -10312,7 +10312,7 @@
       "path": "mdl/weapons/sp_arc_tool/ptpov_arc_tool.rmdl",
       "usePhysics": false,
       "materials": ["models/Weapons_R2/sp_arc_tool/sp_arc_tool_sknp"],
-      "animrigs": ["animrig/weapons/defender/ptpov_defender.rrig"]
+      "animrigs": ["animrig/weapons/epg/ptpov_epg.rrig"]
     },
     {
       "$type": "rmdl",
