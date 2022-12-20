@@ -620,7 +620,9 @@
         "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_ao",
         "texture/models/titans_r2/titan_destruction/titan_damaged_limbs/titan_damaged_limbs_cav",
 
-        "texture/models/titans/titan_ar_marker/titan_ar_marker_col",
+        "texture/models/titans/titan_ar_marker/white",
+        "texture/models/titans/titan_ar_marker/titan_ar_marker_nml",
+        "texture/models/titans/titan_ar_marker/dev_scanline_sparse",
 
         "texture/models/weapons/attachments/acgs_sight/acgs_sight_col",
         "texture/models/weapons/attachments/acgs_sight/acgs_sight_nml",
@@ -722,7 +724,52 @@
         "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_gls",
         "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_spc",
         "texture/models/robots/spactre/spectre_assault_loadout_damaged/spectre_assault_loadout_damaged_col",
-        "texture/models/robots/spactre/spectre_assault_loadout_damaged/spectre_assault_loadout_damaged_nml"
+        "texture/models/robots/spactre/spectre_assault_loadout_damaged/spectre_assault_loadout_damaged_nml",
+
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_col",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_nml",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_gls",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_spc",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_ilm",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_ao",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_cav",
+
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_col",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_nml",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_gls",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_spc",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_ilm",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_ao",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_cav",
+
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_col",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_nml",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_gls",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_spc",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_ilm",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_ao",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_cav",
+
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01/rbt_destroyed_stalker_upperbody_skn_01_col",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01/rbt_destroyed_stalker_upperbody_skn_01_nml",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01/rbt_destroyed_stalker_upperbody_skn_01_gls",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01/rbt_destroyed_stalker_upperbody_skn_01_spc",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01/rbt_destroyed_stalker_upperbody_skn_01_ilm",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01/rbt_destroyed_stalker_upperbody_skn_01_ao",
+
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01/rbt_destroyed_stalker_lowerbody_skn_01_col",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01/rbt_destroyed_stalker_lowerbody_skn_01_nml",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01/rbt_destroyed_stalker_lowerbody_skn_01_gls",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01/rbt_destroyed_stalker_lowerbody_skn_01_spc",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01/rbt_destroyed_stalker_lowerbody_skn_01_ilm",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01/rbt_destroyed_stalker_lowerbody_skn_01_ao",
+
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_col",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_nml",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_gls",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_spc",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_ilm",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_ao"
       ]
     },
     {
@@ -839,15 +886,29 @@
     },
     {
       "$type": "matl",
-      "path": "models/titans/titan_ar_marker/titan_ar_marker",
+      "path": "models/humans/mri/mri_male_v1/mri_male_v1",
       "type": "sknp",
       "shaderset": 8900632333082111100,
       "width": 1024,
       "height": 1024,
       "textures": [
-        "texture/models/titans/titan_ar_marker/titan_ar_marker_col",
-        "",
-        "",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg/t_m_ion_prime_hatch_dmg_col",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg/t_m_ion_prime_hatch_dmg_nml",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg/t_m_ion_prime_hatch_dmg_gls",
+        "texture/models/titans_r2/medium_ion_prime/skin_dmg/t_m_ion_prime_hatch_dmg/t_m_ion_prime_hatch_dmg_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/titans/titan_ar_marker/titan_ar_marker",
+      "type": "sknp",
+      "shaderset": 8900632333082111100,
+      "width": 128,
+      "height": 128,
+      "textures": [
+        "texture/models/titans/titan_ar_marker/white",
+        "texture/models/titans/titan_ar_marker/titan_ar_marker_nml",
+        "texture/models/titans/titan_ar_marker/dev_scanline_sparse",
         ""
       ]
     },
@@ -1533,6 +1594,111 @@
     },
     {
       "$type": "matl",
+      "path": "models/robotics_r2/stalkers/rbt_stalker_head_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 1024,
+      "textures": [
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_col",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_nml",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_gls",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_spc",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_ilm",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_ao",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_head_skn_01/rbt_stalker_head_skn_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 1024,
+      "textures": [
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_col",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_nml",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_gls",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_spc",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_ilm",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_ao",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01/rbt_stalker_lowerbody_skn_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 1024,
+      "textures": [
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_col",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_nml",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_gls",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_spc",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_ilm",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_ao",
+        "texture/models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01/rbt_stalker_upperbody_skn_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 1024,
+      "textures": [
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_col",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_nml",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_gls",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_spc",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_ilm",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_ao"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 1024,
+      "textures": [
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01/rbt_destroyed_stalker_lowerbody_skn_01_col",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01/rbt_destroyed_stalker_lowerbody_skn_01_nml",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01/rbt_destroyed_stalker_lowerbody_skn_01_gls",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01/rbt_destroyed_stalker_lowerbody_skn_01_spc",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01/rbt_destroyed_stalker_lowerbody_skn_01_ilm",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01/rbt_destroyed_stalker_lowerbody_skn_01_ao"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 1024,
+      "textures": [
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01/rbt_destroyed_stalker_upperbody_skn_01_col",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01/rbt_destroyed_stalker_upperbody_skn_01_nml",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01/rbt_destroyed_stalker_upperbody_skn_01_gls",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01/rbt_destroyed_stalker_upperbody_skn_01_spc",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01/rbt_destroyed_stalker_upperbody_skn_01_ilm",
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01/rbt_destroyed_stalker_upperbody_skn_01_ao"
+      ]
+    },
+    {
+      "$type": "matl",
       "path": "models/humans/titanpilot_gsuits/pilot_medium_v_helmets/pilot_med_helmet_v2_skn_02",
       "type": "sknp",
       "cputype": "weapon",
@@ -1636,8 +1802,7 @@
     {
       "$type": "matl",
       "path": "models/robots/spactre/spectre_body_damaged",
-      "type": "sknp",
-      "shaderset": 14504094420058426309,
+      "type": "rgdp",
       "width": 1024,
       "height": 1024,
       "textures": [
@@ -1650,8 +1815,7 @@
     {
       "$type": "matl",
       "path": "models/robots/spactre/spectre_assault_loadout_damaged",
-      "type": "sknp",
-      "shaderset": 14504094420058426309,
+      "type": "rgdp",
       "width": 512,
       "height": 512,
       "textures": [
@@ -9898,6 +10062,28 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/robots/stalker/robot_stalker.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/humans/mri/mri_male_v1/mri_male_v1_sknp",
+        "models/robotics_r2/stalkers/rbt_stalker_head_skn_01_sknp",
+        "models/robotics_r2/stalkers/rbt_stalker_head_skn_01_sknp",
+        "models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01_sknp",
+        "models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01_sknp",
+        "models/robotics_r2/stalkers/rbt_stalker_lowerbody_skn_01_sknp",
+        "models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_lowerbody_skn_01_sknp",
+        "models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01_sknp",
+        "models/robotics_r2/stalkers/rbt_stalker_upperbody_skn_01_sknp",
+        "models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_upperbody_skn_01_sknp",
+        "models/titans/titan_ar_marker/titan_ar_marker_sknp"
+      ],
+      "animrigs": [
+        "animrig/robots/spectre/spectre_pete_core_copy.rrig",
+        "animrig/robots/spectre/spectre_pete_reactions_copy.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/robots/spectre/imc_spectre.rmdl",
       "usePhysics": true,
       "materials": [
@@ -9915,31 +10101,35 @@
       "$type": "rmdl",
       "path": "mdl/robots/spectre/spectre_assault_d_gib_leg_l.rmdl",
       "usePhysics": true,
+      "static": true,
       "materials": [
-        "models/robots/spactre/spectre_assault_loadout_damaged_sknp",
-        "models/robots/spactre/spectre_body_damaged_sknp"
+        "models/robots/spactre/spectre_assault_loadout_damaged_rgdp",
+        "models/robots/spactre/spectre_body_damaged_rgdp"
       ]
     },
     {
       "$type": "rmdl",
       "path": "mdl/robots/spectre/spectre_assault_d_gib_leg_r.rmdl",
       "usePhysics": true,
+      "static": true,
       "materials": [
-        "models/robots/spactre/spectre_assault_loadout_damaged_sknp",
-        "models/robots/spactre/spectre_body_damaged_sknp"
+        "models/robots/spactre/spectre_assault_loadout_damaged_rgdp",
+        "models/robots/spactre/spectre_body_damaged_rgdp"
       ]
     },
     {
       "$type": "rmdl",
       "path": "mdl/robots/spectre/spectre_assault_d_gib_arm_l.rmdl",
       "usePhysics": true,
-      "materials": ["models/robots/spactre/spectre_body_damaged_sknp"]
+      "static": true,
+      "materials": ["models/robots/spactre/spectre_body_damaged_rgdp"]
     },
     {
       "$type": "rmdl",
       "path": "mdl/robots/spectre/spectre_assault_d_gib_arm_r.rmdl",
       "usePhysics": true,
-      "materials": ["models/robots/spactre/spectre_body_damaged_sknp"]
+      "static": true,
+      "materials": ["models/robots/spactre/spectre_body_damaged_rgdp"]
     },
     {
       "$type": "rmdl",
