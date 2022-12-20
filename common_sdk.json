@@ -9883,6 +9883,21 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/robots/super_spectre/super_spectre_v1.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/robots/spactre/spectre_body_sknp",
+        "models/robots/spactre/spectre_body_sknp",
+        "models/robots/spactre/spectre_head_01_sknp",
+        "models/robots/spactre/spectre_assault_loadout_sknp"
+      ],
+      "animrigs": [
+        "animrig/robots/spectre/spectre_pete_core_copy.rrig",
+        "animrig/robots/spectre/spectre_pete_reactions_copy.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/robots/spectre/imc_spectre.rmdl",
       "usePhysics": true,
       "materials": [
