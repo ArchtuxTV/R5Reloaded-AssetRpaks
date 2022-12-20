@@ -9,6 +9,12 @@ Can't be place to the ground, requires energy ammo
 New Weapon: Softball
 -
 
+New Weapon: Arc Tool
+-
+
+New Weapon: R101
+-
+
 New Weapon: Sidewinder
 -
 
@@ -68,6 +74,9 @@ New NPCs: Rocket Drone
 -
 
 New NPCs: R2 Flyers
+-
+
+New NPCs: Spectres
 -
 
 New NPCs: Legend Dummies

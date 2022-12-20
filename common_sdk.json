@@ -685,7 +685,37 @@
         "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_nml",
         "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_gls",
         "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_spc",
-        "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_opa"
+        "texture/models/weapons/attachments/aog_r1_lense/aog_r1_lenses_opa",
+
+        "texture/models/robots/spactre/spectre_assault_loadout/spectre_assault_loadout_col",
+        "texture/models/robots/spactre/spectre_assault_loadout/spectre_assault_loadout_nml",
+        "texture/models/robots/spactre/spectre_assault_loadout/spectre_assault_loadout_gls",
+        "texture/models/robots/spactre/spectre_assault_loadout/spectre_assault_loadout_spc",
+        "texture/models/robots/spactre/spectre_assault_loadout/spectre_assault_loadout_ao",
+        "texture/models/robots/spactre/spectre_assault_loadout/spectre_assault_loadout_cav",
+
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_col",
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_nml",
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_gls",
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_spc",
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_ilm",
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_ao",
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_cav",
+
+        "texture/models/robots/spactre/spectre_body/spectre_body_col",
+        "texture/models/robots/spactre/spectre_body/spectre_body_nml",
+        "texture/models/robots/spactre/spectre_body/spectre_body_gls",
+        "texture/models/robots/spactre/spectre_body/spectre_body_spc",
+        "texture/models/robots/spactre/spectre_body/spectre_body_ilm",
+        "texture/models/robots/spactre/spectre_body/spectre_body_ao",
+        "texture/models/robots/spactre/spectre_body/spectre_body_cav",
+
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_col",
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_nml",
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_gls",
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_spc",
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_ao",
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_cav"
       ]
     },
     {
@@ -1598,6 +1628,57 @@
     },
     {
       "$type": "matl",
+      "path": "models/robots/spactre/spectre_body",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/robots/spactre/spectre_body/spectre_body_col",
+        "texture/models/robots/spactre/spectre_body/spectre_body_nml",
+        "texture/models/robots/spactre/spectre_body/spectre_body_gls",
+        "texture/models/robots/spactre/spectre_body/spectre_body_spc",
+        "texture/models/robots/spactre/spectre_body/spectre_body_ilm",
+        "texture/models/robots/spactre/spectre_body/spectre_body_ao",
+        "texture/models/robots/spactre/spectre_body/spectre_body_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/robots/spactre/spectre_head_01",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 512,
+      "textures": [
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_col",
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_nml",
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_gls",
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_spc",
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_ilm",
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_ao",
+        "texture/models/robots/spactre/spectre_head_01/spectre_head_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/robots/spactre/spectre_assault_loadout",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 512,
+      "height": 512,
+      "textures": [
+        "texture/models/robots/spactre/spectre_assault_loadout/spectre_assault_loadout_col",
+        "texture/models/robots/spactre/spectre_assault_loadout/spectre_assault_loadout_nml",
+        "texture/models/robots/spactre/spectre_assault_loadout/spectre_assault_loadout_gls",
+        "texture/models/robots/spactre/spectre_assault_loadout/spectre_assault_loadout_spc",
+        "",
+        "texture/models/robots/spactre/spectre_assault_loadout/spectre_assault_loadout_ao",
+        "texture/models/robots/spactre/spectre_assault_loadout/spectre_assault_loadout_cav"
+      ]
+    },
+    {
+      "$type": "matl",
       "path": "models/humans_r5/pilots_r5/pilot_loba/loba_viewmodel_arms",
       "type": "sknp",
       "cputype": "weapon",
@@ -2065,6 +2146,24 @@
         "",
         "texture/models/Weapons_R2/attachments/il_bal/il_bal_ao",
         "texture/models/Weapons_R2/attachments/il_bal/il_bal_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/Weapons_R2/attachments/aog_r1",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 8403185417549714111,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_col",
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_nml",
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_gls",
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_spc",
+        "",
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_ao",
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_cav"
       ]
     },
     {
@@ -9749,6 +9848,21 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/robots/spectre/imc_spectre.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/robots/spactre/spectre_body_sknp",
+        "models/robots/spactre/spectre_body_sknp",
+        "models/robots/spactre/spectre_head_01_sknp",
+        "models/robots/spactre/spectre_assault_loadout_sknp"
+      ],
+      "animrigs": [
+        "animrig/robots/spectre/spectre_pete_core_copy.rrig",
+        "animrig/robots/spectre/spectre_pete_reactions_copy.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/humans/pilots/pilot_medium_reaper_male.rmdl",
       "usePhysics": true,
       "materials": [
@@ -10163,12 +10277,35 @@
         "models/weapons/attachments/acgs_sight_sknp",
         "models/Weapons_R2/attachments/charge_rifle_optic_sknp",
         "models/weapons/attachments/rifle_scope_lens_sknp",
-        "models/weapons_r5/attachments/optics/aog_r1/aog_r1_sknp",
-        "models/weapons_r5/attachments/optics/aog_r1/aog_r1_sknp",
+        "models/Weapons_R2/attachments/aog_r1_sknp",
+        "models/Weapons_R2/attachments/aog_r1_sknp",
         "models/weapons/attachments/aog_r1_lense_sknp",
         "models/Weapons_R2/attachments/pro_screen_sknp"
       ],
       "animrigs": ["animrig/weapons/rspn101/ptpov_rspn101.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/r101_sfp/w_r101_sfp.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/weapons/r101/r101_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/r101_sfp/r101_sfp_sknp",
+        "models/Weapons_R2/attachments/il_bal_sknp",
+        "models/Weapons_R2/attachments/hcog2_optic_sknp",
+        "models/weapons/attachments/acgs_sight_sknp",
+        "models/Weapons_R2/attachments/charge_rifle_optic_sknp",
+        "models/Weapons_R2/attachments/aog_r1_sknp",
+        "models/Weapons_R2/attachments/pro_screen_sknp"
+      ],
+      "animrigs": ["animrig/weapons/rspn101/w_rspn101.rrig"]
     },
     {
       "$type": "rmdl",
