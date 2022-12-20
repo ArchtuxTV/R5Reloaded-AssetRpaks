@@ -715,7 +715,14 @@
         "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_gls",
         "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_spc",
         "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_ao",
-        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_cav"
+        "texture/models/Weapons_R2/attachments/aog_r1/aog_r1_cav",
+
+        "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_col",
+        "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_nml",
+        "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_gls",
+        "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_spc",
+        "texture/models/robots/spactre/spectre_assault_loadout_damaged/spectre_assault_loadout_damaged_col",
+        "texture/models/robots/spactre/spectre_assault_loadout_damaged/spectre_assault_loadout_damaged_nml"
       ]
     },
     {
@@ -1624,6 +1631,34 @@
         "",
         "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_ao",
         "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/robots/spactre/spectre_body_damaged",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_col",
+        "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_nml",
+        "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_gls",
+        "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/robots/spactre/spectre_assault_loadout_damaged",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 512,
+      "height": 512,
+      "textures": [
+        "texture/models/robots/spactre/spectre_assault_loadout_damaged/spectre_assault_loadout_damaged_col",
+        "texture/models/robots/spactre/spectre_assault_loadout_damaged/spectre_assault_loadout_damaged_nml",
+        "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_gls",
+        "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_spc"
       ]
     },
     {
@@ -9860,6 +9895,36 @@
         "animrig/robots/spectre/spectre_pete_core_copy.rrig",
         "animrig/robots/spectre/spectre_pete_reactions_copy.rrig"
       ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/robots/spectre/spectre_assault_d_gib_leg_l.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/robots/spactre/spectre_assault_loadout_damaged_sknp",
+        "models/robots/spactre/spectre_body_damaged_sknp"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/robots/spectre/spectre_assault_d_gib_leg_r.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/robots/spactre/spectre_assault_loadout_damaged_sknp",
+        "models/robots/spactre/spectre_body_damaged_sknp"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/robots/spectre/spectre_assault_d_gib_arm_l.rmdl",
+      "usePhysics": true,
+      "materials": ["models/robots/spactre/spectre_body_damaged_sknp"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/robots/spectre/spectre_assault_d_gib_arm_r.rmdl",
+      "usePhysics": true,
+      "materials": ["models/robots/spactre/spectre_body_damaged_sknp"]
     },
     {
       "$type": "rmdl",
