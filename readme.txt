@@ -6,7 +6,7 @@ Made by @KralRindo, also gonna credit Zer0Bytes#4428 for his helps on repak, and
 Usage: Download the repo, drop "ui_sdk.json" and "common_sdk.json" into repak.exe. 
 It will create asset rpaks in "build" folder, copy them and drop into "r5reloaded/paks/win64" folder.
 
-Update your scrips and launch the game.
+Update your scripts and launch the game.
 If you wanna modify and add your own asset, here is some useful info below
 
 //========================================================
