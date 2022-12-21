@@ -769,7 +769,59 @@
         "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_gls",
         "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_spc",
         "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_ilm",
-        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_ao"
+        "texture/models/robotics_r2/stalkers_destroyed/rbt_destroyed_stalker_head_skn_01/rbt_destroyed_stalker_head_skn_01_ao",
+
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_spc",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_ilm",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_cav",
+
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_spc",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_cav",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_opa",
+
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_eye_skn_01/vil_imc_blisk_eye_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_eye_skn_01/vil_imc_blisk_eye_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_eye_skn_01/vil_imc_blisk_eye_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_eye_skn_01/vil_imc_blisk_eye_skn_01_spc",
+
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_spc",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_ilm",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_cav",
+
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_spc",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_cav",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_opa",
+
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01/vil_imc_blisk_head_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01/vil_imc_blisk_head_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01/vil_imc_blisk_head_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01/vil_imc_blisk_head_skn_01_spc",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01/vil_imc_blisk_head_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01/vil_imc_blisk_head_skn_01_cav",
+
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_spc",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_ilm",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_cav"
       ]
     },
     {
@@ -1797,6 +1849,150 @@
         "",
         "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_ao",
         "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 4096,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_spc",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_ilm",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01/vil_imc_blisk_body_skn_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 512,
+      "height": 512,
+      "textures": [
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_spc",
+        "",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_cav",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_cornea_skn_01/vil_imc_blisk_cornea_skn_01_opa"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r2/imc_villains/blisk/vil_imc_blisk_eye_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_eye_skn_01/vil_imc_blisk_eye_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_eye_skn_01/vil_imc_blisk_eye_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_eye_skn_01/vil_imc_blisk_eye_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_eye_skn_01/vil_imc_blisk_eye_skn_01_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_spc",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_ilm",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01/vil_imc_blisk_gear_skn_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_spc",
+        "",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_cav",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_opa"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01_v1",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_spc",
+        "",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_cav",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01/vil_imc_blisk_hair_skn_01_opa"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01/vil_imc_blisk_head_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01/vil_imc_blisk_head_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01/vil_imc_blisk_head_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01/vil_imc_blisk_head_skn_01_spc",
+        "",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01/vil_imc_blisk_head_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01/vil_imc_blisk_head_skn_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_col",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_nml",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_gls",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_spc",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_ilm",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_ao",
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_cav"
       ]
     },
     {
@@ -10162,6 +10358,26 @@
         "animrig/humans/pete/pete_scripted_skyway.rrig",
         "animrig/humans/pete/pete_scripted_timeshift.rrig",
         "animrig/humans/pete/pete_scripted_wilds.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/humans/pilots/imc_hero_blisk.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/humans/mri/mri_male_v1/mri_male_v1_sknp",
+        "models/humans_r2/imc_villains/blisk/vil_imc_blisk_body_skn_01_sknp",
+        "models/humans_r2/imc_villains/blisk/vil_imc_blisk_gear_skn_01_sknp",
+        "models/humans_r2/imc_villains/blisk/vil_imc_blisk_head_skn_01_sknp",
+        "models/humans_r2/imc_villains/blisk/vil_imc_blisk_eye_skn_01_sknp",
+        "models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01_sknp",
+        "models/humans_r5/pilots_r5/pilot_phase/wraith_eye_cornea_sknp",
+        "models/humans_r2/imc_villains/blisk/vil_imc_blisk_hair_skn_01_v1_sknp",
+        "models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01_sknp"
+      ],
+      "animrigs": [
+        "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
+        "animrig/humans/class/medium/pilot_medium_holo.rrig"
       ]
     },
     {
