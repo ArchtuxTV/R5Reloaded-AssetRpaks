@@ -826,6 +826,28 @@
     },
     {
       "$type": "matl",
+      "path": "models/error/error",
+      "type": "rgdp",
+      "ilmtint": [0.07, 0.0, 0.0],
+      "albedotint": [1.0, 0.0, 0.0],
+      "shaderset": 23039282842564146133,
+      "flags": 1901312,
+      "flags2": 1442840608,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
+      "width": 128,
+      "height": 128,
+      "textures": [
+        4788127894098750373,
+        10130362896405817766,
+        14009197603805282631,
+        6151919165116503870,
+        12954983569338254269
+      ]
+    },
+    {
+      "$type": "matl",
       "path": "models/titans_r2/medium_ion/warpaint/warpaint_02/t_m_ion_warpaint_skin02",
       "type": "sknp",
       "shaderset": 8900632333082111100,
