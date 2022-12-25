@@ -821,7 +821,56 @@
         "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_spc",
         "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_ilm",
         "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_ao",
-        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_cav"
+        "texture/models/humans_r2/imc_villains/blisk/vil_imc_blisk_helmet_skn_01/vil_imc_blisk_helmet_skn_01_cav",
+
+        "texture/effects/ash_sword_smear/0x870ee29ff3dafe6d",
+        "texture/effects/ash_sword_smear/0xdaf40aa1287fb99b",
+
+        "texture/art/mshop/characters/legends/ash/base/ash_base_head/0x412dc4aee2bf3c1f",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_head/0x3887303483931825",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_head/0x7aa1f1f02cea8671",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_head/0xa754ccfb6aa3c8b2",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_head/0xff54bdfad23ba02c",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_head/0x8063da914dcef69",
+
+        "texture/art/mshop/characters/legends/ash/base/ash_base_hair/0xa52e767fb607596d",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_hair/0x9bedffec639781ef",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_hair/0xde08c1a80ceef03b",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_hair/0xabb9cb33e40869a",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_hair/0xb5c9f3bea9fa32fe",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_hair/0xb5c9f3bea9fa32fe",
+
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0xc18f901bcb1c30f1",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0xb8e8fba16bf00cf7",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0xfb03bd5ce9dca1ac",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0x27b698684ccce793",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0x7fb6896795619158",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0x4eeeb2aa3df21758",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0xd3f8b3a59f0dfaff",
+
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0xb49870c5d1d429c4",
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0x4af5f148c28de7d4",
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0x968bd12307eb074b",
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0xfa70b256731f30a9",
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0x6b2a5e0e3ead5678",
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0x22e702df6f7f560b",
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0xb8623f32807d37a2",
+
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0xc0ebb05387a684f6",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0xb71157a75ac251b8",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0xf92c1962d27b107c",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0x25def46e103452bd",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0x7cab213baa141af3",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0x224b59203af56327",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0xd0ed4b79ad8caea9",
+
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0xbbe87e25c3d25f29",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0xcf2c5ec75561f684",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0xd9671a4e5b412782",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0xa04e80ca42c442e3",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0xd588b50b3aeee27b",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0x2b079d10bbb2293f",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0x4a285191604eaf40"
       ]
     },
     {
@@ -1180,6 +1229,16 @@
     {
       "$type": "matl",
       "path": "DONOTRENDER",
+      "type": "sknp",
+      "visflags": "colpass",
+      "drawflags": "wireframe",
+      "width": 512,
+      "height": 512,
+      "textures": ["", "", "", ""]
+    },
+    {
+      "$type": "matl",
+      "path": "NOPE",
       "type": "sknp",
       "visflags": "colpass",
       "drawflags": "wireframe",
@@ -2041,6 +2100,123 @@
         "texture/models/robots/spactre/spectre_assault_loadout_damaged/spectre_assault_loadout_damaged_nml",
         "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_gls",
         "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/ash/base/ash_base_gear",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0xc0ebb05387a684f6",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0xb71157a75ac251b8",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0xf92c1962d27b107c",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0x25def46e103452bd",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0x7cab213baa141af3",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0x224b59203af56327",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_gear/0xd0ed4b79ad8caea9"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/misc_ash_sword/ash_sword",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 1024,
+      "textures": [
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0xb49870c5d1d429c4",
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0x4af5f148c28de7d4",
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0x968bd12307eb074b",
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0xfa70b256731f30a9",
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0x6b2a5e0e3ead5678",
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0x22e702df6f7f560b",
+        "texture/models/weapons_r5/misc_ash_sword/ash_sword/0xb8623f32807d37a2"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/ash/base/ash_base_body",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0xc18f901bcb1c30f1",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0xb8e8fba16bf00cf7",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0xfb03bd5ce9dca1ac",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0x27b698684ccce793",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0x7fb6896795619158",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0x4eeeb2aa3df21758",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_body/0xd3f8b3a59f0dfaff"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/ash/base/ash_base_v_arms",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0xbbe87e25c3d25f29",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0xcf2c5ec75561f684",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0xd9671a4e5b412782",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0xa04e80ca42c442e3",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0xd588b50b3aeee27b",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0x2b079d10bbb2293f",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0x4a285191604eaf40"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/ash/base/ash_base_hair",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/art/mshop/characters/legends/ash/base/ash_base_hair/0xa52e767fb607596d",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_hair/0x9bedffec639781ef",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_hair/0xde08c1a80ceef03b",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_hair/0xabb9cb33e40869a",
+        "",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_hair/0xb5c9f3bea9fa32fe",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_hair/0xb5c9f3bea9fa32fe"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/ash/base/ash_base_head",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/art/mshop/characters/legends/ash/base/ash_base_head/0x412dc4aee2bf3c1f",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_head/0x3887303483931825",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_head/0x7aa1f1f02cea8671",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_head/0xa754ccfb6aa3c8b2",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_head/0xff54bdfad23ba02c",
+        "texture/art/mshop/characters/legends/ash/base/ash_base_head/0x8063da914dcef69"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "effects/ash_sword_smear",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "visflags": 17,
+      "width": 128,
+      "height": 128,
+      "textures": [
+        "texture/effects/ash_sword_smear/0x870ee29ff3dafe6d",
+        "",
+        "",
+        "",
+        "texture/effects/ash_sword_smear/0xdaf40aa1287fb99b"
       ]
     },
     {
@@ -10931,6 +11107,40 @@
         "models/Weapons_R2/attachments/pro_screen_sknp"
       ],
       "animrigs": ["animrig/weapons/b3wing/ptpov_b3wing.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/techart/mshop/characters/legends/ash/ash_base_w.rmdl",
+      "usePhysics": true,
+      "materials": [
+        "models/humans/mri/mri_male_v1/mri_male_v1_sknp",
+        "art/mshop/characters/legends/ash/base/ash_base_gear_sknp",
+        "models/weapons_r5/misc_ash_sword/ash_sword_sknp",
+        "art/mshop/characters/legends/ash/base/ash_base_body_sknp",
+        "effects/ash_sword_smear_sknp",
+        "art/mshop/characters/legends/ash/base/ash_base_hair_sknp",
+        "art/mshop/characters/legends/ash/base/ash_base_head_sknp",
+        "DONOTRENDER_sknp",
+        "DONOTRENDER_sknp",
+        "DONOTRENDER_sknp",
+        "DONOTRENDER_sknp",
+        "DONOTRENDER_sknp",
+        "DONOTRENDER_sknp",
+        "DONOTRENDER_sknp",
+        "DONOTRENDER_sknp",
+        "DONOTRENDER_sknp",
+        "DONOTRENDER_sknp"
+      ],
+      "animrigs": [
+        "animrig/humans/class/light/mp_pilot_light_core.rrig",
+        "animrig/humans/class/light/pilot_light_wraith.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/techart/mshop/characters/legends/ash/ash_base_v.rmdl",
+      "usePhysics": false,
+      "animrigs": ["animrig/weapons/arms/pov_mp_core.rrig"]
     },
     {
       "$type": "rmdl",
