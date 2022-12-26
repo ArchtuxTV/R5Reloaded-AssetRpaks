@@ -884,8 +884,14 @@
         "texture/models/weapons_r5/repeater3030/repeater3030_base_main/repeater3030_base_main_spc",
         "texture/models/weapons_r5/repeater3030/repeater3030_base_main/repeater3030_base_main_ilm",
         "texture/models/weapons_r5/repeater3030/repeater3030_base_main/repeater3030_base_main_ao",
-        "texture/models/weapons_r5/repeater3030/repeater3030_base_main/repeater3030_base_main_cav"
+        "texture/models/weapons_r5/repeater3030/repeater3030_base_main/repeater3030_base_main_cav",
 
+        "texture/models/weapons_r5/laser_sight/laser_sight_col",
+        "texture/models/weapons_r5/laser_sight/laser_sight_nml",
+        "texture/models/weapons_r5/laser_sight/laser_sight_gls",
+        "texture/models/weapons_r5/laser_sight/laser_sight_spc",
+        "texture/models/weapons_r5/laser_sight/laser_sight_ilm",
+        "texture/models/weapons_r5/laser_sight/laser_sight_ao"
       ]
     },
     {
@@ -1102,38 +1108,11 @@
     },
     {
       "$type": "matl",
-      "path": "models/weapons_r5/throwingknife_base",
+      "path": "art/mshop/weapons/class/assault/repeater3030/base/repeater3030_base_main",
       "type": "sknp",
-      "shaderset": 8900632333082111100,
-      "width": 1024,
-      "height": 1024,
-      "flags": 1901312,
-      "flags2": 1442841632,
-      "visflags": 23,
-      "drawflags": 6,
-      "unkflags": 4,
-      "textures": [
-        "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_col",
-        "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_gls",
-        "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_nml",
-        "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_spc",
-        "",
-        "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_ao",
-        "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_cav"
-      ]
-    },
-    {
-      "$type": "matl",
-      "path": "models/weapons_r5/repeater3030/repeater3030_base_main",
-      "type": "sknp",
-      "shaderset": 8900632333082111100,
+      "shaderset": 8213833473093334948,
       "width": 2048,
       "height": 2048,
-      "flags": 1901312,
-      "flags2": 1442840608,
-      "visflags": 23,
-      "drawflags": 6,
-      "unkflags": 4,
       "textures": [
         "texture/models/weapons_r5/repeater3030/repeater3030_base_main/repeater3030_base_main_col",
         "texture/models/weapons_r5/repeater3030/repeater3030_base_main/repeater3030_base_main_gls",
@@ -1142,6 +1121,23 @@
         "texture/models/weapons_r5/repeater3030/repeater3030_base_main/repeater3030_base_main_ilm",
         "texture/models/weapons_r5/repeater3030/repeater3030_base_main/repeater3030_base_main_ao",
         "texture/models/weapons_r5/repeater3030/repeater3030_base_main/repeater3030_base_main_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/attachments/laser_sight/lasersight/laser_sight",
+      "type": "sknp",
+      "shaderset": 8213833473093334948,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/weapons_r5/laser_sight/laser_sight_col",
+        "texture/models/weapons_r5/laser_sight/laser_sight_gls",
+        "texture/models/weapons_r5/laser_sight/laser_sight_nml",
+        "texture/models/weapons_r5/laser_sight/laser_sight_spc",
+        "texture/models/weapons_r5/laser_sight/laser_sight_ilm",
+        "texture/models/weapons_r5/laser_sight/laser_sight_ao",
+        ""
       ]
     },
     {
@@ -10506,6 +10502,19 @@
         "models/Weapons_R2/attachments/pro_screen_sknp"
       ],
       "animrigs": ["animrig/weapons/car/w_car101.rrig"]
+    },
+
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/3030repeater/ptpov_3030repeater.rmdl",
+      "usePhysics": false,
+      "animrigs": ["animrig/weapons/3030repeater/ptpov_3030repeater.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/3030repeater/w_3030repeater.rmdl",
+      "usePhysics": true,
+      "animrigs": ["animrig/weapons/mastiff_stgn/w_mastiff.rrig"]
     },
     {
       "$type": "rmdl",
