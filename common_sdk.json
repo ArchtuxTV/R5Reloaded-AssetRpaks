@@ -891,7 +891,62 @@
         "texture/models/weapons_r5/laser_sight/laser_sight_gls",
         "texture/models/weapons_r5/laser_sight/laser_sight_spc",
         "texture/models/weapons_r5/laser_sight/laser_sight_ilm",
-        "texture/models/weapons_r5/laser_sight/laser_sight_ao"
+        "texture/models/weapons_r5/laser_sight/laser_sight_ao",
+
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_col",
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_cav",
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_nml",
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_gls",
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_spc",
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_ilm",
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_ao",
+
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_col",
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_cav",
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_nml",
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_gls",
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_spc",
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_ilm",
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_ao",
+
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_col",
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_cav",
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_nml",
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_gls",
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_spc",
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_ilm",
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_ao",
+
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_col",
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_cav",
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_nml",
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_gls",
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_spc",
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_ilm",
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_ao",
+
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_col",
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_cav",
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_nml",
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_gls",
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_spc",
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_ilm",
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_ao",
+
+        "texture/models/weapons_r5/compound_base_acc/compound_base_acc_col",
+        "texture/models/weapons_r5/compound_base_acc/compound_base_acc_nml",
+        "texture/models/weapons_r5/compound_base_acc/compound_base_acc_gls",
+        "texture/models/weapons_r5/compound_base_acc/compound_base_acc_spc",
+        "texture/models/weapons_r5/compound_base_acc/compound_base_acc_ilm",
+        "texture/models/weapons_r5/compound_base_acc/compound_base_acc_ao",
+
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_col",
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_cav",
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_nml",
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_gls",
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_spc",
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_ilm",
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_ao"
       ]
     },
     {
@@ -1138,6 +1193,168 @@
         "texture/models/weapons_r5/laser_sight/laser_sight_ilm",
         "texture/models/weapons_r5/laser_sight/laser_sight_ao",
         ""
+      ]
+    },
+
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/attachments/optics/bow_1x2x_sight/bow_1x2x_sight",
+      "type": "sknp",
+      "cpu" : "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight",
+      "shaderset": 8213833473093334948,
+      "flags": 1901312,
+      "flags2": 1442840608,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
+      "width": 512,
+      "height": 512,
+      "textures": [
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_col",
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_gls",
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_nml",
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_spc",
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_ilm",
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_ao",
+        "texture/models/weapons_r5/bow_1x2x_sight/bow_1x2x_sight_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/attachments/optics/bow_acgs_sight/bow_acgs_sight",
+      "type": "sknp",
+      "cpu" : "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight",
+      "shaderset": 8213833473093334948,
+      "flags": 1901312,
+      "flags2": 1442840608,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_col",
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_gls",
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_nml",
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_spc",
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_ilm",
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_ao",
+        "texture/models/weapons_r5/bow_acgs_sight/bow_acgs_sight_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/attachments/optics/bow_hcog_sight/bow_hcog_sight",
+      "type": "sknp",
+      "cpu" : "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight",
+      "shaderset": 8213833473093334948,
+      "flags": 1901312,
+      "flags2": 1442840608,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_col",
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_gls",
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_nml",
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_spc",
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_ilm",
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_ao",
+        "texture/models/weapons_r5/bow_hcog_sight/bow_hcog_sight_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/attachments/optics/bow_holo_reflex_sight/bow_holo_reflex_sight",
+      "type": "sknp",
+      "cpu" : "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight",
+      "shaderset": 8213833473093334948,
+      "flags": 1901312,
+      "flags2": 1442840608,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_col",
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_gls",
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_nml",
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_spc",
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_ilm",
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_ao",
+        "texture/models/weapons_r5/bow_holo_reflex_sight/bow_holo_reflex_sight_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/attachments/optics/bow_iron_sight/bow_iron_sight",
+      "type": "sknp",
+      "cpu" : "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight",
+      "shaderset": 8213833473093334948,
+      "flags": 1901312,
+      "flags2": 1442840608,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
+      "width": 512,
+      "height": 512,
+      "textures": [
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_col",
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_gls",
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_nml",
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_spc",
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_ilm",
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_ao",
+        "texture/models/weapons_r5/bow_iron_sight/bow_iron_sight_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/weapons/class/bow/compound/base/compound_base_acc",
+      "type": "sknp",
+      "cpu" : "texture/models/weapons_r5/compound_base_acc/compound_base_acc",
+      "shaderset": 8213833473093334948,
+      "flags": 1901312,
+      "flags2": 1442840608,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/weapons_r5/compound_base_acc/compound_base_acc_col",
+        "texture/models/weapons_r5/compound_base_acc/compound_base_acc_gls",
+        "texture/models/weapons_r5/compound_base_acc/compound_base_acc_nml",
+        "texture/models/weapons_r5/compound_base_acc/compound_base_acc_spc",
+        "texture/models/weapons_r5/compound_base_acc/compound_base_acc_ilm",
+        "texture/models/weapons_r5/compound_base_acc/compound_base_acc_ao",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/weapons/class/bow/compound/base/compound_base_main",
+      "type": "sknp",
+      "cpu" : "texture/models/weapons_r5/compound_base_main/compound_base_main",
+      "shaderset": 8213833473093334948,
+      "flags": 1901312,
+      "flags2": 1442840608,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_col",
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_gls",
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_nml",
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_spc",
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_ilm",
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_ao",
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_cav"
       ]
     },
     {
@@ -10523,6 +10740,22 @@
       "path": "mdl/Weapons/3030repeater/w_3030repeater.rmdl",
       "usePhysics": true,
       "animrigs": ["animrig/weapons/3030repeater/w_3030repeater.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/compound_bow/ptpov_compound_bow.rmdl",
+      "usePhysics": false
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/compound_bow/w_compound_bow.rmdl",
+      "usePhysics": false,
+      "animrigs": ["animrig/weapons/3030repeater/w_3030repeater.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/bullets/w_arrow_projectile.rmdl",
+      "usePhysics": false
     },
     {
       "$type": "rmdl",
