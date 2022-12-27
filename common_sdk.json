@@ -1406,6 +1406,29 @@
     },
     {
       "$type": "matl",
+      "path": "art/mshop/weapons/class/cqc/throwingknife/base/throwingknife_base_main",
+      "type": "sknp",
+      "cpu": "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main",
+      "shaderset": 8213833473093334948,
+      "flags": 1901312,
+      "flags2": 1442841632,
+      "visflags": 23,
+      "drawflags": 6,
+      "unkflags": 4,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_col",
+        "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_gls",
+        "",
+        "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_spc",
+        "",
+        "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_ao",
+        "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_cav"
+      ]
+    },
+    {
+      "$type": "matl",
       "path": "models/creatures_r2/flyer/c_a_flyer_skin01",
       "type": "sknp",
       "cpu": "cpu/c_a_flyer_skin01",
