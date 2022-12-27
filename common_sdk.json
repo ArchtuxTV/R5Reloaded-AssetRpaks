@@ -11077,7 +11077,7 @@
     {
       "$type": "rmdl",
       "path": "mdl/Weapons/compound_bow/w_compound_bow.rmdl",
-      "usePhysics": false,
+      "usePhysics": true,
       "animrigs": ["animrig/weapons/compound_bow/w_compound_bow.rrig"]
     },
     {
