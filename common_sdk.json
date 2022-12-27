@@ -4525,6 +4525,14 @@
     },
     {
       "$type": "arig",
+      "path": "animrig/weapons/3030repeater/w_3030repeater.rrig",
+      "animseqs": [
+        "animseq/weapons/3030repeater/w_3030repeater/attack_seq.rseq",
+        "animseq/weapons/3030repeater/w_3030repeater/idle_seq.rseq"
+      ]
+    },
+    {
+      "$type": "arig",
       "path": "animrig/weapons/sp_arc_tool/ptpov_arc_tool.rrig",
       "animseqs": [
         "animseq/weapons/arc_tool/ptpov_arc_tool/crouch.rseq",
@@ -10514,7 +10522,7 @@
       "$type": "rmdl",
       "path": "mdl/Weapons/3030repeater/w_3030repeater.rmdl",
       "usePhysics": true,
-      "animrigs": ["animrig/weapons/mastiff_stgn/w_mastiff.rrig"]
+      "animrigs": ["animrig/weapons/3030repeater/w_3030repeater.rrig"]
     },
     {
       "$type": "rmdl",
