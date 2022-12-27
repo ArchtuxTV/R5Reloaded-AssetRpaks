@@ -5658,6 +5658,16 @@
     },
     {
       "$type": "arig",
+      "path": "animrig/weapons/dragon_lmg/w_lmg_dragon.rrig",
+      "animseqs": [
+        "animseq/weapons/dragon_lmg/w_lmg_dragon/attack_seq.rseq",
+        "animseq/weapons/dragon_lmg/w_lmg_dragon/attack_seq_alt1.rseq",
+        "animseq/weapons/dragon_lmg/w_lmg_dragon/attack_seq_alt2.rseq",
+        "animseq/weapons/dragon_lmg/w_lmg_dragon/idle_seq.rseq"
+      ]
+    },
+    {
+      "$type": "arig",
       "path": "animrig/weapons/dragon_lmg/ptpov_dragon_lmg.rrig",
       "animseqs": [
         "animseq/weapons/dragon_lmg/ptpov_dragon_lmg/draw_copy1.rseq",
@@ -11799,6 +11809,12 @@
       "path": "mdl/techart/mshop/weapons/class/lmg/dragon/dragon_base_v.rmdl",
       "usePhysics": false,
       "animrigs": ["animrig/weapons/dragon_lmg/ptpov_dragon_lmg.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/techart/mshop/weapons/class/lmg/dragon/dragon_base_w.rmdl",
+      "usePhysics": true,
+      "animrigs": ["animrig/weapons/dragon_lmg/w_lmg_dragon.rrig"]
     },
     {
       "$type": "rmdl",
