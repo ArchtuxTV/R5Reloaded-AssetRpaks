@@ -377,6 +377,13 @@
         "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_ilm",
         "texture/models/weapons_r5/loot/wep_test_pickups_ammo_exp_blend/wep_test_pickups_ammo_exp_blend_ilm2",
 
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_col",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_nml",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_gls",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_spc",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_ilm",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_ao",
+
         "texture/models/Weapons_R2/data_knife/data_knife_glass_col",
         "texture/models/Weapons_R2/data_knife/data_knife_glass_nml",
         "texture/models/Weapons_R2/data_knife/data_knife_glass_gls",
@@ -871,6 +878,13 @@
         "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0xd588b50b3aeee27b",
         "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0x2b079d10bbb2293f",
         "texture/art/mshop/characters/legends/ash/base/ash_base_v_arms/0x4a285191604eaf40",
+
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_col",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_nml",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_gls",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_spc",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_ilm",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_ao",
 
         "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_col",
         "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main_gls",
@@ -2028,6 +2042,34 @@
         16371403591942019181,
         2069039626981503334,
         "texture/models/weapons_r5/loot/wep_test_pickups_ammo_sni_blend/wep_test_pickups_ammo_sni_blend_ilm2"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/test/weapons_test/pickups_test/wep_test_pickups_arrows_main_blend",
+      "type": "rgdp",
+      "shaderset": 3444865890171848327,
+      "ilmtint": [1.0, 1.0, 1.0],
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_col",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_nml",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_gls",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_spc",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_ilm",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_ao",
+        "",
+        "",
+        "",
+        "",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_col",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_nml",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_gls",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_spc",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_ilm",
+        "",
+        "texture/models/weapons_r5/loot/wep_test_pickups_ammo_arrow_blend/wep_test_pickups_arw_blend_ao"
       ]
     },
     {
@@ -4173,6 +4215,38 @@
         "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ilm",
         "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_ao",
         "texture/models/titans/buddy/cine_eye/BT_a_eye_cine/BT_a_eye_cine_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/misc_mjolnir/mjolnir",
+      "type": "sknp",
+      "shaderset": "FixedVertexShaderSet",
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_col",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_nml",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_gls",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_spc",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_ilm",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_ao"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/misc_mjolnir/mjolnir_w",
+      "type": "sknp",
+      "shaderset": 12024133449294937,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_col",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_nml",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_gls",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_spc",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_ilm",
+        "texture/models/weapons_r5/misc_mjolnir/mjolnir_ao"
       ]
     },
     {
@@ -11072,7 +11146,7 @@
       "$type": "rmdl",
       "path": "mdl/Weapons/compound_bow/ptpov_compound_bow.rmdl",
       "usePhysics": false,
-      "animrigs" : ["animrig/weapons/compound_bow/ptpov_compound_bow.rrig"]
+      "animrigs": ["animrig/weapons/compound_bow/ptpov_compound_bow.rrig"]
     },
     {
       "$type": "rmdl",
@@ -11733,6 +11807,15 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/weapons_r5/loot/_master/w_loot_wep_arrows_mn.rmdl",
+      "usePhysics": true,
+      "static": true,
+      "materials": [
+        "models/test/weapons_test/pickups_test/wep_test_pickups_arrows_main_blend_rgdp"
+      ]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/creatures/spider/spider.rmdl",
       "usePhysics": true,
       "materials": ["models/creatures_r5/spider/spider_white_sknp"],
@@ -11855,6 +11938,12 @@
       "path": "mdl/weapons/kunai/ptpov_data_knife.rmdl",
       "usePhysics": false,
       "animrigs": ["animrig/weapons/kunai/ptpov_kunai_wraith.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/mjolnir/w_mjolnir.rmdl",
+      "usePhysics": false,
+      "materials": ["models/weapons_r5/misc_mjolnir/mjolnir_sknp"]
     }
   ]
 }
