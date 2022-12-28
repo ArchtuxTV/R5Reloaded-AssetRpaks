@@ -1094,7 +1094,14 @@
         "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_gls",
         "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_spc",
         "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_ao",
-        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_cav"
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_cav",
+
+        "texture/models/Weapons_R5/car_smg/car_base_main/car_base_main_col",
+        "texture/models/Weapons_R5/car_smg/car_base_main/car_base_main_nml",
+        "texture/models/Weapons_R5/car_smg/car_base_main/car_base_main_gls",
+        "texture/models/Weapons_R5/car_smg/car_base_main/car_base_main_spc",
+        "texture/models/Weapons_R5/car_smg/car_base_main/car_base_main_ao",
+        "texture/models/Weapons_R5/car_smg/car_base_main/car_base_main_cav"
       ]
     },
     {
@@ -3802,6 +3809,24 @@
         "texture/models/Weapons_R2/car_smg/CAR_smg/CAR_smg_ilm",
         "texture/models/Weapons_R2/car_smg/CAR_smg/CAR_smg_ao",
         "texture/models/Weapons_R2/car_smg/CAR_smg/CAR_smg_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/weapons/class/smg/car/base/car_base_main",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 2134705335625393957,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/Weapons_R5/car_smg/car_base_main/car_base_main_col",
+        "texture/models/Weapons_R5/car_smg/car_base_main/car_base_main_nml",
+        "texture/models/Weapons_R5/car_smg/car_base_main/car_base_main_gls",
+        "texture/models/Weapons_R5/car_smg/car_base_main/car_base_main_spc",
+        "",
+        "texture/models/Weapons_R5/car_smg/car_base_main/car_base_main_ao",
+        "texture/models/Weapons_R5/car_smg/car_base_main/car_base_main_cav"
       ]
     },
     {
@@ -11570,6 +11595,12 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/techart/mshop/weapons/class/smg/car/car_base_v.rmdl",
+      "usePhysics": false,
+      "animrigs": ["animrig/weapons/car/ptpov_car101.rrig"]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/weapons/car101/ptpov_car101.rmdl",
       "usePhysics": false,
       "materials": [
@@ -11611,7 +11642,6 @@
       ],
       "animrigs": ["animrig/weapons/car/w_car101.rrig"]
     },
-
     {
       "$type": "rmdl",
       "path": "mdl/Weapons/3030repeater/ptpov_3030repeater.rmdl",
