@@ -6290,6 +6290,8 @@
       "$type": "arig",
       "path": "animrig/vehicle/olympus_hovercraft/olympus_hovercraft.rrig",
       "animseqs": [
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/crypto_gladcard_animated_rideordie_hovercraft.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/crypto_gladcard_animated_rideordie_hovercraft_idle.rseq",
         "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_activate_chase.rseq",
         "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_activate_hover.rseq",
         "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_breaking_idle.rseq",
