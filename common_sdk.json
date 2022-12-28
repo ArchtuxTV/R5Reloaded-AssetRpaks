@@ -8506,14 +8506,6 @@
       "$type": "rmdl",
       "path": "mdl/techart/mshop/characters/legends/ash/ash_base_w.rmdl",
       "usePhysics": true,
-      "materials": [
-        "art/mshop/characters/legends/ash/base/ash_base_body_sknp",
-        "art/mshop/characters/legends/ash/base/ash_base_hair_sknp",
-        "art/mshop/characters/legends/ash/base/ash_base_head_sknp",
-        "art/mshop/characters/legends/ash/base/ash_base_gear_sknp",
-        "models/weapons_r5/misc_ash_sword/ash_sword_sknp",
-        "effects/ash_sword_smear_sknp"
-      ],
       "animrigs": [
         "animrig/humans/class/light/mp_pilot_light_core.rrig",
         "animrig/humans/class/light/pilot_light_wraith.rrig"
