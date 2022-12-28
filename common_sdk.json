@@ -25,6 +25,36 @@
     {
       "$type": "txtrlist",
       "textures": [
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_col",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_nml",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_gls",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_spc",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_ao",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_cav",
+
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common/veh_air_olympus_hovercraft_common_col",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common/veh_air_olympus_hovercraft_common_nml",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common/veh_air_olympus_hovercraft_common_gls",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common/veh_air_olympus_hovercraft_common_spc",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common/veh_air_olympus_hovercraft_common_ao",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common/veh_air_olympus_hovercraft_common_cav",
+
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_col",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_nml",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_gls",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_spc",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_ilm",
+
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_glass_opa",
+
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_col",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_nml",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_gls",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_spc",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_ilm",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_ao",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_cav",
+
         "texture/models/weapons_r5/sentinel/sentinel_ESR_col",
         "texture/models/weapons_r5/sentinel/sentinel_ESR_nml",
         "texture/models/weapons_r5/sentinel/sentinel_ESR_gls",
@@ -993,7 +1023,78 @@
         "texture/models/weapons_r5/compound_base_main/compound_base_main_gls",
         "texture/models/weapons_r5/compound_base_main/compound_base_main_spc",
         "texture/models/weapons_r5/compound_base_main/compound_base_main_ilm",
-        "texture/models/weapons_r5/compound_base_main/compound_base_main_ao"
+        "texture/models/weapons_r5/compound_base_main/compound_base_main_ao",
+
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_spc",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_ilm",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_ao",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_cav",
+
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01/hero_mil_jack_hair_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01/hero_mil_jack_hair_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01/hero_mil_jack_hair_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01/hero_mil_jack_hair_skn_01_spc",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01/hero_mil_jack_hair_skn_01_opa",
+
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_eye_skn_01/hero_mil_jack_eye_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_eye_skn_01/hero_mil_jack_eye_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_eye_skn_01/hero_mil_jack_eye_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_eye_skn_01/hero_mil_jack_eye_skn_01_spc",
+
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_spc",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_ilm",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_ao",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_cav",
+
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_spc",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_ilm",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_ao",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_cav",
+
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_spc",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_ilm",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_ao",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_cav",
+
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_face_skn_01/hero_mil_jack_face_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_face_skn_01/hero_mil_jack_face_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_face_skn_01/hero_mil_jack_face_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_face_skn_01/hero_mil_jack_face_skn_01_spc",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_face_skn_01/hero_mil_jack_face_skn_01_ao",
+
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01/hero_mil_jack_fringe_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01/hero_mil_jack_fringe_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01/hero_mil_jack_fringe_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01/hero_mil_jack_fringe_skn_01_spc",
+
+        "texture/models/humans/militia_heros_r2/jack/aquarium_interior_glass_01/aquarium_interior_glass_01_col",
+        "texture/models/humans/militia_heros_r2/jack/aquarium_interior_glass_01/aquarium_interior_glass_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/aquarium_interior_glass_01/aquarium_interior_glass_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/aquarium_interior_glass_01/aquarium_interior_glass_01_spc",
+
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_decal_skn_01/hero_mil_jack_decal_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_decal_skn_01/hero_mil_jack_decal_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_decal_skn_01/hero_mil_jack_decal_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_decal_skn_01/hero_mil_jack_decal_skn_01_spc",
+
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_spc",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_ao",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_cav"
       ]
     },
     {
@@ -2300,6 +2401,237 @@
         "",
         "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_ao",
         "texture/models/humans/titanpilot_gsuits/pilot_med_reaper_jumpkit_skin_02/pilot_med_reaper_jumpkit_skin_02_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_spc",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_ilm",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_ao",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01/hero_mil_jack_gauntlet_skn_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01/hero_mil_jack_hair_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01/hero_mil_jack_hair_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01/hero_mil_jack_hair_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01/hero_mil_jack_hair_skn_01_spc",
+        "",
+        "",
+        "",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01/hero_mil_jack_hair_skn_01_opa"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/militia_heros_r2/jack/hero_mil_jack_eye_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_eye_skn_01/hero_mil_jack_eye_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_eye_skn_01/hero_mil_jack_eye_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_eye_skn_01/hero_mil_jack_eye_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_eye_skn_01/hero_mil_jack_eye_skn_01_spc",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/titanpilot_heads/eye_clear",
+      "type": "sknp",
+      "visflags": "colpass",
+      "drawflags": "wireframe",
+      "width": 512,
+      "height": 512,
+      "textures": ["", "", "", ""]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 4096,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_spc",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_ilm",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_ao",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01/hero_mil_jack_helmet_skn_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_spc",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_ilm",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_ao",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01/hero_mil_jack_gear_skn_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_spc",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_ilm",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_ao",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01/hero_mil_jack_jumpkit_skn_01_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/militia_heros_r2/jack/hero_mil_jack_face_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_face_skn_01/hero_mil_jack_face_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_face_skn_01/hero_mil_jack_face_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_face_skn_01/hero_mil_jack_face_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_face_skn_01/hero_mil_jack_face_skn_01_spc",
+        "",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_face_skn_01/hero_mil_jack_face_skn_01_ao",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/militia_heros_r2/jill/hero_mil_jill_face_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "visflags": 17,
+      "width": 512,
+      "height": 256,
+      "textures": [
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01/hero_mil_jack_fringe_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01/hero_mil_jack_fringe_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01/hero_mil_jack_fringe_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01/hero_mil_jack_fringe_skn_01_spc",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "visflags": 17,
+      "width": 512,
+      "height": 256,
+      "textures": [
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01/hero_mil_jack_fringe_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01/hero_mil_jack_fringe_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01/hero_mil_jack_fringe_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01/hero_mil_jack_fringe_skn_01_spc",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "world/underground_glass_dome/aquarium_interior_glass_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "visflags": 17,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/models/humans/militia_heros_r2/jack/aquarium_interior_glass_01/aquarium_interior_glass_01_col",
+        "texture/models/humans/militia_heros_r2/jack/aquarium_interior_glass_01/aquarium_interior_glass_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/aquarium_interior_glass_01/aquarium_interior_glass_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/aquarium_interior_glass_01/aquarium_interior_glass_01_spc",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/militia_heros_r2/jack/hero_mil_jack_decal_skn_02",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "visflags": 17,
+      "width": 256,
+      "height": 256,
+      "textures": [
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_decal_skn_01/hero_mil_jack_decal_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_decal_skn_01/hero_mil_jack_decal_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_decal_skn_01/hero_mil_jack_decal_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_decal_skn_01/hero_mil_jack_decal_skn_01_spc",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01",
+      "type": "sknp",
+      "cputype": "weapon",
+      "shaderset": 14504094420058426309,
+      "width": 4096,
+      "height": 2048,
+      "textures": [
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_col",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_nml",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_gls",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_spc",
+        "",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_ao",
+        "texture/models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01/hero_mil_jack_body_skn_01_cav"
       ]
     },
     {
@@ -4314,6 +4646,111 @@
     },
     {
       "$type": "matl",
+      "path": "models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main",
+      "type": "sknp",
+      "cpu": "cpu/veh_air_olympus_hovercraft_main",
+      "shaderset": 12024133449294937,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_col",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_nml",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_gls",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_spc",
+        "",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_ao",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common",
+      "type": "sknp",
+      "cpu": "cpu/veh_air_olympus_hovercraft_common",
+      "shaderset": 12024133449294937,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common/veh_air_olympus_hovercraft_common_col",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common/veh_air_olympus_hovercraft_common_nml",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common/veh_air_olympus_hovercraft_common_gls",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common/veh_air_olympus_hovercraft_common_spc",
+        "",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common/veh_air_olympus_hovercraft_common_ao",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_common/veh_air_olympus_hovercraft_common_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight",
+      "type": "sknp",
+      "cpu": "cpu/veh_air_olympus_hovercraft_headlight",
+      "shaderset": 12024133449294937,
+      "width": 512,
+      "height": 512,
+      "textures": [
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_col",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_nml",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_gls",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_spc",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_ilm",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_ao",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_headlight/veh_air_olympus_hovercraft_headlight_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on",
+      "type": "sknp",
+      "cpu": "cpu/veh_air_olympus_hovercraft_brakelight_on",
+      "shaderset": 12024133449294937,
+      "width": 512,
+      "height": 512,
+      "textures": [
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_col",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_nml",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_gls",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_spc",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_ilm"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_glass",
+      "type": "sknp",
+      "cpu": "cpu/veh_air_olympus_hovercraft_brakelight_on",
+      "shaderset": 12024133449294937,
+      "width": 512,
+      "height": 512,
+      "textures": [
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_col",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_nml",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_gls",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_spc",
+        "",
+        "",
+        "",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_glass_opa"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_off",
+      "type": "sknp",
+      "cpu": "cpu/veh_air_olympus_hovercraft_brakelight_on",
+      "shaderset": 12024133449294937,
+      "width": 512,
+      "height": 512,
+      "textures": [
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_col",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_nml",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_gls",
+        "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_brakelight_on/veh_air_olympus_hovercraft_brakelight_on_spc",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
       "path": "models/weapons_r5/grenades/thermite_grenade_charge",
       "type": "sknp",
       "cpu": "cpu/thermite_grenade_charge",
@@ -5847,6 +6284,26 @@
         "animseq_derived/weapons/dragon_lmg/ptpov_dragon_lmg/switch_to_onehanded.rseq",
         "animseq_derived/weapons/dragon_lmg/ptpov_dragon_lmg/switch_to_twohanded.rseq",
         "animseq_derived/weapons/dragon_lmg/ptpov_dragon_lmg/wind_effect_layer.rseq"
+      ]
+    },
+    {
+      "$type": "arig",
+      "path": "animrig/vehicle/olympus_hovercraft/olympus_hovercraft.rrig",
+      "animseqs": [
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_activate_chase.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_activate_hover.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_breaking_idle.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_chase_idle.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_damage_large.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_damage_small.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_deactivate.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_grounded_idle.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_hover_idle.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_Rside_mount_across.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_strafe_Left.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_strafe_Right.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_turn_Left.rseq",
+        "animseq/vehicle/olympus_hovercraft/olympus_hovercraft/hovercraft_turn_Right.rseq"
       ]
     },
     {
@@ -11373,6 +11830,41 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/humans/heroes/mlt_hero_jack.rmdl",
+      "usePhysics": false,
+      "materials": [
+        "models/humans/mri/mri_male_v1/mri_male_v1_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_gauntlet_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_gear_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_jumpkit_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_body_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_fringe_skn_01_sknp",
+        "world/underground_glass_dome/aquarium_interior_glass_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_decal_skn_02_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_decal_skn_02_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_helmet_skn_01_sknp",
+        "models/humans/militia_heros_r2/jill/hero_mil_jill_face_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_face_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_eye_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01_sknp",
+        "models/humans/militia_heros_r2/jack/hero_mil_jack_hair_skn_01_sknp",
+        "models/humans/titanpilot_heads/eye_clear_sknp"
+      ],
+      "animrigs": [
+        "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
+        "animrig/humans/class/medium/pilot_medium_holo.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/humans/pilots/pilot_medium_reaper_m.rmdl",
       "usePhysics": true,
       "materials": [
@@ -11967,6 +12459,12 @@
       "path": "mdl/Weapons/mjolnir/w_mjolnir.rmdl",
       "usePhysics": false,
       "materials": ["models/weapons_r5/misc_mjolnir/mjolnir_sknp"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/vehicle/olympus_hovercraft/olympus_hovercraft_v2.rmdl",
+      "usePhysics": true,
+      "animrigs": ["animrig/vehicle/olympus_hovercraft/olympus_hovercraft.rrig"]
     }
   ]
 }
