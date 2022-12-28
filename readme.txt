@@ -29,7 +29,7 @@ slot13 _nml ??
 slot14 _vxd/_thk
 slot15 _vxd
 slot16 _asd/_asa anisoSpecDir
-the following are used on blend materials, for maps only. it is a second texture to blend into the main one.
+the following are used on blend materials. it is a second texture to blend into the main one.
 slot17 _bm blendmap
 
 slot23 _col
