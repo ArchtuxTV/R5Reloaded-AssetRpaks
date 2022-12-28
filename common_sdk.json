@@ -12458,6 +12458,16 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/Weapons/mjolnir/ptpov_mjolnir.rmdl",
+      "usePhysics": false,
+      "animrigs": ["animrig/weapons/bloodhound_axe/ptpov_axe_bloodhound.rrig"],
+      "materials": [
+        "models/weapons_r5/misc_bloodhound_heirloom/bloodhound_tomahawk_sknp",
+        "models/weapons_r5/misc_mjolnir/mjolnir_sknp"
+      ]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/Weapons/mjolnir/w_mjolnir.rmdl",
       "usePhysics": false,
       "materials": ["models/weapons_r5/misc_mjolnir/mjolnir_sknp"]
