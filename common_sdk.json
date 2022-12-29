@@ -7446,9 +7446,17 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/Weapons/misc_vantage_ultimate/w_misc_vantage_ultimate.rmdl",
+      "usePhysics": true,
+      "animrigs": ["animrig/weapons/at_rifle/w_at_rifle.rrig"]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/Weapons/misc_vantage_ultimate/ptpov_misc_vantage_ultimate.rmdl",
       "usePhysics": false,
-      "animrigs": ["animrig/weapons/sentinel/ptpov_sentinel.rrig"]
+      "animrigs": [
+        "animrig/weapons/misc_vantage_ultimate/ptpov_misc_vantage_ultimate.rrig"
+      ]
     },
     {
       "$type": "rmdl",
