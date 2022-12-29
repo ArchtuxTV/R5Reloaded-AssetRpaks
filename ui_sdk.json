@@ -232,30 +232,37 @@
       "atlas": "texture/ui_atlas/rui/hud/icons/hud_atlas",
       "textures": [
         {
-          "path": "rui/hud/tactical_icons/pilot_tactical_3dash",
+          "path": "rui/hud/ultimate_icons/ultimate_vantage",
           "posX": 10,
+          "posY": 10,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/tactical_icons/pilot_tactical_3dash",
+          "posX": 542,
           "posY": 10,
           "width": 128,
           "height": 128
         },
         {
           "path": "rui/hud/tactical_icons/pilot_tactical_particle_wall",
-          "posX": 158,
-          "posY": 10,
+          "posX": 542,
+          "posY": 158,
           "width": 128,
           "height": 128
         },
         {
           "path": "rui/hud/custom_badges/r5r_badge",
-          "posX": 10,
-          "posY": 158,
+          "posX": 542,
+          "posY": 306,
           "width": 128,
           "height": 128
         },
         {
           "path": "rui/pilot_loadout/ordnance/satchel",
-          "posX": 158,
-          "posY": 158,
+          "posX": 542,
+          "posY": 454,
           "width": 128,
           "height": 128
         }
