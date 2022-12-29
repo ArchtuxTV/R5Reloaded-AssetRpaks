@@ -7804,6 +7804,12 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/techart/mshop/weapons/class/smg/car/car_base_w.rmdl",
+      "usePhysics": true,
+      "animrigs": ["animrig/weapons/car/w_car101.rrig"]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/weapons/car101/ptpov_car101.rmdl",
       "usePhysics": false,
       "materials": [
