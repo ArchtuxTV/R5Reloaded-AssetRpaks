@@ -36,6 +36,18 @@ New Weapon: Throwing Knife
 New Weapon: Smart Pistol
 -
 
+New Weapon: 30-30 Repeater
+-
+
+New Weapon: Vantage Ultimate
+-
+
+New Weapon: Rampage LMG
+-
+
+New Weapon: Bocek Bow
+-
+
 New Heirloom: Boxing Gloves
 -
 
