@@ -884,7 +884,36 @@
         "texture/models/weapons_r5/misc_vantage_ultimate/misc_vantage_ultimate_spc",
         "texture/models/weapons_r5/misc_vantage_ultimate/misc_vantage_ultimate_ilm",
         "texture/models/weapons_r5/misc_vantage_ultimate/misc_vantage_ultimate_ao",
-        "texture/models/weapons_r5/misc_vantage_ultimate/misc_vantage_ultimate_cav"
+        "texture/models/weapons_r5/misc_vantage_ultimate/misc_vantage_ultimate_cav",
+
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_body/catalyst_base_body_col",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_body/catalyst_base_body_nml",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_body/catalyst_base_body_gls",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_body/catalyst_base_body_spc",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_body/catalyst_base_body_ao",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_body/catalyst_base_body_cav",
+
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_gear/catalyst_base_gear_col",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_gear/catalyst_base_gear_nml",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_gear/catalyst_base_gear_gls",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_gear/catalyst_base_gear_spc",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_gear/catalyst_base_gear_ao",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_gear/catalyst_base_gear_cav",
+
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_hair/catalyst_base_hair_col",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_hair/catalyst_base_hair_nml",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_hair/catalyst_base_hair_gls",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_hair/catalyst_base_hair_spc",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_hair/catalyst_base_hair_ao",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_hair/catalyst_base_hair_cav",
+
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_col",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_nml",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_gls",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_spc",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_ao",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_cav",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_thk"
       ]
     },
     {
@@ -1926,6 +1955,81 @@
         "texture/models/robots/spactre/spectre_assault_loadout_damaged/spectre_assault_loadout_damaged_nml",
         "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_gls",
         "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/catalyst/base/catalyst_base_body",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_body/catalyst_base_body_col",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_body/catalyst_base_body_nml",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_body/catalyst_base_body_gls",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_body/catalyst_base_body_spc",
+        "",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_body/catalyst_base_body_ao",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_body/catalyst_base_body_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/catalyst/base/catalyst_base_gear",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_gear/catalyst_base_gear_col",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_gear/catalyst_base_gear_nml",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_gear/catalyst_base_gear_gls",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_gear/catalyst_base_gear_spc",
+        "",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_gear/catalyst_base_gear_ao",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_gear/catalyst_base_gear_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/catalyst/base/catalyst_base_hair",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 512,
+      "height": 512,
+      "textures": [
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_hair/catalyst_base_hair_col",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_hair/catalyst_base_hair_nml",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_hair/catalyst_base_hair_gls",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_hair/catalyst_base_hair_spc",
+        "",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_hair/catalyst_base_hair_ao",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_hair/catalyst_base_hair_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/catalyst/base/catalyst_base_head",
+      "type": "sknp",
+      "shaderset": 10945145507255019214,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_col",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_nml",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_gls",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_spc",
+        "",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_ao",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_cav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_thk"
       ]
     },
     {
@@ -8580,6 +8684,15 @@
       "path": "mdl/techart/mshop/weapons/class/lmg/dragon/dragon_base_w.rmdl",
       "usePhysics": true,
       "animrigs": ["animrig/weapons/dragon_lmg/w_lmg_dragon.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/techart/mshop/characters/legends/catalyst/catalyst_base_w.rmdl",
+      "usePhysics": true,
+      "animrigs": [
+        "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
+        "animrig/humans/class/medium/pilot_medium_bloodhound.rrig"
+      ]
     },
     {
       "$type": "rmdl",
