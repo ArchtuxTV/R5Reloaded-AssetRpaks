@@ -913,7 +913,56 @@
         "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_spc",
         "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_ao",
         "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_cav",
-        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_thk"
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_head/catalyst_base_head_thk",
+
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms/catalyst_base_v_arms_col",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms/catalyst_base_v_arms_nml",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms/catalyst_base_v_arms_gls",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms/catalyst_base_v_arms_spc",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms/catalyst_base_v_arms_ao",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms/catalyst_base_v_arms_cav",
+
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_col",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_nml",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_gls",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_spc",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_ilm",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_ao",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_cav",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_asd",
+
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_col",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_nml",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_gls",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_spc",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_ilm",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_ao",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_cav",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_asd",
+
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_col",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_nml",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_gls",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_spc",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_ao",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_cav",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_asd",
+
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_col",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_nml",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_gls",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_spc",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_ao",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_cav",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_thk",
+
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_col",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_nml",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_gls",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_spc",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_ao",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_cav",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_asd"
       ]
     },
     {
@@ -1955,6 +2004,147 @@
         "texture/models/robots/spactre/spectre_assault_loadout_damaged/spectre_assault_loadout_damaged_nml",
         "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_gls",
         "texture/models/robots/spactre/spectre_body_damaged/spectre_body_damaged_spc"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/horizon/base/horizon_base_body",
+      "type": "sknp",
+      "shaderset": 2289763749674888697,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_col",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_nml",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_gls",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_spc",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_ilm",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_ao",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_cav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_body/horizon_base_body_asd"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/horizon/base/horizon_base_gear",
+      "type": "sknp",
+      "shaderset": 2289763749674888697,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_col",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_nml",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_gls",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_spc",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_ilm",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_ao",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_cav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_gear/horizon_base_gear_asd"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/horizon/base/horizon_base_v_arms",
+      "type": "sknp",
+      "shaderset": 2289763749674888697,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_col",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_nml",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_gls",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_spc",
+        "",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_ao",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_cav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_v_arms/horizon_base_v_arms_asd"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/horizon/base/horizon_base_head",
+      "type": "sknp",
+      "shaderset": 10945145507255019214,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_col",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_nml",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_gls",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_spc",
+        "",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_ao",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_cav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_head/horizon_base_head_thk"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/horizon/base/horizon_base_hair",
+      "type": "sknp",
+      "shaderset": 5443800633606486814,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_col",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_nml",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_gls",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_spc",
+        "",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_ao",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_cav",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_asd"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms/catalyst_base_v_arms_col",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms/catalyst_base_v_arms_nml",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms/catalyst_base_v_arms_gls",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms/catalyst_base_v_arms_spc",
+        "",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms/catalyst_base_v_arms_ao",
+        "texture/art/mshop/characters/legends/catalyst/base/catalyst_base_v_arms/catalyst_base_v_arms_cav"
       ]
     },
     {
@@ -8687,12 +8877,33 @@
     },
     {
       "$type": "rmdl",
+      "path": "mdl/Humans/class/medium/pilot_medium_nova_01.rmdl",
+      "usePhysics": true,
+      "animrigs": [
+        "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
+        "animrig/humans/class/medium/pilot_medium_bloodhound.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/arms/pov_pilot_medium_nova_base_01.rmdl",
+      "usePhysics": false,
+      "animrigs": ["animrig/weapons/arms/pov_mp_core.rrig"]
+    },
+    {
+      "$type": "rmdl",
       "path": "mdl/techart/mshop/characters/legends/catalyst/catalyst_base_w.rmdl",
       "usePhysics": true,
       "animrigs": [
         "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
         "animrig/humans/class/medium/pilot_medium_bloodhound.rrig"
       ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/techart/mshop/characters/legends/catalyst/catalyst_base_v.rmdl",
+      "usePhysics": false,
+      "animrigs": ["animrig/weapons/arms/pov_mp_core.rrig"]
     },
     {
       "$type": "rmdl",
