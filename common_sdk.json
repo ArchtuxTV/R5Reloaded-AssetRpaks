@@ -6961,6 +6961,7 @@
       "$type": "arig",
       "path": "animrig/weapons/empty_handed/ptpov_boxinghand.rrig",
       "animseqs": [
+        "animseq/weapons/empty_handed/ptpov_boxinghand/crouch.rseq",
         "animseq/weapons/empty_handed/ptpov_boxinghand/crouch_twitch.rseq",
         "animseq/weapons/empty_handed/ptpov_boxinghand/draw.rseq",
         "animseq/weapons/empty_handed/ptpov_boxinghand/drawfirst.rseq",
@@ -6970,6 +6971,8 @@
         "animseq/weapons/empty_handed/ptpov_boxinghand/holster.rseq",
         "animseq/weapons/empty_handed/ptpov_boxinghand/idle.rseq",
         "animseq/weapons/empty_handed/ptpov_boxinghand/idle_onehanded.rseq",
+        "animseq/weapons/empty_handed/ptpov_boxinghand/idle_twitch.rseq",
+        "animseq/weapons/empty_handed/ptpov_boxinghand/inspect.rseq",
         "animseq/weapons/empty_handed/ptpov_boxinghand/jump.rseq",
         "animseq/weapons/empty_handed/ptpov_boxinghand/land.rseq",
         "animseq/weapons/empty_handed/ptpov_boxinghand/land_high.rseq",
