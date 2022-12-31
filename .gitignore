@@ -1,3 +1,5 @@
 *.rpak
 *.starpak
 *.exe
+assets_kral
+common_kral.json
