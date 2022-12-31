@@ -16,7 +16,6 @@
 "","PING_WEAPON_SMR","","mp_weapon_smr","main_weapon","launcher",1,"","","","","","",0,"","","survival_loot_pickup_weapon_smr","survival_loot_pickup_3p_weapon_smr","","",1,1,"",0.0,0,0,0,0,0,0
 "","PING_WEAPON_SOFTBALL","","mp_weapon_softball","main_weapon","launcher",1,"","","","","","",0,"","","survival_loot_pickup_weapon_softball","survival_loot_pickup_3p_weapon_softball","","",1,1,"",0.0,0,0,0,0,0,0
 "","PING_WEAPON_EPG","","mp_weapon_epg","main_weapon","launcher",1,"","","","","","",0,"","","survival_loot_pickup_weapon_epg","survival_loot_pickup_3p_weapon_epg","","",1,1,"",0.0,0,0,0,0,0,0
-"","PING_WEAPON_SHEILA_HMG","","mp_weapon_mobile_hmg","main_weapon","lmg",1,"","","","","","",0,"","","survival_loot_pickup_weapon_lmg","survival_loot_pickup_3_weapon_lmg","","",1,1,"",0.0,0,0,0,0,0,0
 "","PING_WEAPON_WINGMAN_ELITE","","mp_weapon_wingman_n","main_weapon","pistol",1,"","","mag","","","",0,"","","survival_loot_pickup_weapon_wingman_n","survival_loot_pickup_3p_weapon_wingman_n","","",1,1,"",0.0,0,0,0,0,0,0
 "","PING_WEAPON_SMART_PISTOL","","mp_weapon_smart_pistol","main_weapon","pistol",1,"","","mag","","","",0,"","","survival_loot_pickup_weapon_smart_pistol","survival_loot_pickup_3p_weapon_smart_pistol","","",1,1,"",0.0,0,0,0,0,0,0
 "","PING_WEAPON_SENTINEL","","mp_weapon_sentinel","main_weapon","sniper",1,"","","sight mag grip","","","",0,"","","survival_loot_pickup_weapon_sniper","survival_loot_pickup_3p_weapon_sniper","","",1,1,"",0.0,0,0,0,0,0,0
