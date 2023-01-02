@@ -955,7 +955,45 @@
         "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_spc",
         "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_ao",
         "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_cav",
-        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_asd"
+        "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_asd",
+
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body_col",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body_nml",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body_gls",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body_spc",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body_ao",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body_cav",
+
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_col",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_nml",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_gls",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_spc",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_ilm",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_ao",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_cav",
+
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms_col",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms_nml",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms_gls",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms_spc",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms_ao",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms_cav",
+
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_col",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_nml",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_gls",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_spc",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_ao",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_cav",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_opa",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_asd",
+
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_col",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_nml",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_gls",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_spc",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_ao",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_thk"
       ]
     },
     {
@@ -2106,6 +2144,95 @@
         "",
         "",
         "texture/art/mshop/characters/legends/horizon/base/horizon_base_hair/horizon_base_hair_asd"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair",
+      "type": "sknp",
+      "cpu": "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_col",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_nml",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_gls",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_spc",
+        "",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_ao",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_hair/valkyrie_base_hair_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/valkyrie/base/valkyrie_base_head",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 1024,
+      "height": 1024,
+      "textures": [
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_col",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_nml",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_gls",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_spc",
+        "",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_ao",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/valkyrie/base/valkyrie_base_body",
+      "type": "sknp",
+      "cpu": "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body_col",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body_nml",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body_gls",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body_spc",
+        "",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body_ao",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_body/valkyrie_base_body_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear",
+      "type": "sknp",
+      "cpu": "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_col",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_nml",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_gls",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_spc",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_ilm",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_ao",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_gear/valkyrie_base_gear_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms",
+      "cpu": "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms",
+      "type": "sknp",
+      "shaderset": 14504094420058426309,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms_col",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms_nml",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms_gls",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms_spc",
+        "",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms_ao",
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_v_arms/valkyrie_base_v_arms_cav"
       ]
     },
     {
@@ -6044,6 +6171,10 @@
     },
     {
       "$type": "arig",
+      "path": "animrig/weapons/arms/pov_pilot_medium_valkyrie.rrig"
+    },
+    {
+      "$type": "arig",
       "path": "animrig/weapons/auto_rocket_launcher_arl/ptpov_ARL.rrig",
       "animseqs": [
         "animseq/weapons/auto_rocket_launcher_arl/ptpov_ARL/ads_out_onehanded_seq.rseq",
@@ -8869,6 +9000,24 @@
       "path": "mdl/techart/mshop/weapons/class/lmg/dragon/dragon_base_w.rmdl",
       "usePhysics": true,
       "animrigs": ["animrig/weapons/dragon_lmg/w_lmg_dragon.rrig"]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Humans/class/medium/pilot_medium_valkyrie.rmdl",
+      "usePhysics": false,
+      "animrigs": [
+        "animrig/humans/class/medium/mp_pilot_medium_core.rrig",
+        "animrig/humans/class/medium/pilot_medium_bloodhound.rrig"
+      ]
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/Weapons/arms/pov_pilot_medium_valkyrie.rmdl",
+      "usePhysics": false,
+      "animrigs": [
+        "animrig/weapons/arms/pov_mp_core.rrig",
+        "animrig/weapons/arms/pov_pilot_medium_valkyrie.rrig"
+      ]
     },
     {
       "$type": "rmdl",
