@@ -3,3 +3,8 @@
 *.exe
 assets_kral
 common_kral.json
+*.lnk
+*.mdl
+*.vtx
+*.vvd
+*.SeqData
