@@ -5178,8 +5178,6 @@
         "animseq/weapons/grenades/ptpov_smoke_grenade/toss_seq.rseq"
       ]
     },
-
-
     {
       "$type": "arig",
       "path": "animrig/weapons/arms/pov_pilot_heavy_revenant.rrig"
