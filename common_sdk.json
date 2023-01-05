@@ -25,6 +25,8 @@
     {
       "$type": "txtrlist",
       "textures": [
+        "texture/_none",
+
         "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_col",
         "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_nml",
         "texture/models/vehicles_r5/air/olympus_hovercraft/veh_air_olympus_hovercraft_main/veh_air_olympus_hovercraft_main_gls",
@@ -993,7 +995,18 @@
         "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_gls",
         "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_spc",
         "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_ao",
-        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_thk"
+        "texture/art/mshop/characters/legends/valkyrie/base/valkyrie_base_head/valkyrie_base_head_thk",
+
+
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_ao",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_cav",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_col",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_gls",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_ilm",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_nml",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on_ilm",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on_ilm_mult",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_spc"
       ]
     },
     {
@@ -1234,6 +1247,81 @@
     },
     {
       "$type": "matl",
+      "path": "models/weapons_r5/misc_cryo_grenade/cryo_grenade",
+      "type": "rgdp",
+      "cpu" : "texture/models/weapons/misc_cryo_grenade/cryo_grenade",
+      "shaderset": 11040882243611724257,
+      "flags" : 1901312,
+      "flags2" : 1442841632,
+      "visflags" : 23,
+      "drawflags" : 6,
+      "unkflags" : 4,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_col",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_nml",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_gls",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_spc",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_ilm",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_ao",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/misc_cryo_grenade/cryo_grenade",
+      "type": "sknp",
+      "cpu" : "texture/models/weapons/misc_cryo_grenade/cryo_grenade",
+      "shaderset": 11505891628736787600,
+      "flags" : 1901312,
+      "flags2" : 1442841632,
+      "visflags" : 23,
+      "drawflags" : 6,
+      "unkflags" : 4,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_col",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_nml",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_gls",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_spc",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_ilm",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_ao",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_cav"
+      ]
+    },
+    {
+      "$type": "matl",
+      "path": "models/weapons_r5/misc_cryo_grenade/cryo_grenade_on",
+      "type": "sknp",
+      "cpu" : "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on",
+      "shaderset": 6639499678442549472,
+      "flags" : 1901312,
+      "flags2" : 1442841632,
+      "visflags" : 23,
+      "drawflags" : 6,
+      "unkflags" : 4,
+      "width": 2048,
+      "height": 2048,
+      "textures": [
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_col",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_nml",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_gls",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_spc",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on_ilm",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_ao",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_cav",
+        "",
+        "",
+        "",
+        "texture/models/weapons/misc_cryo_grenade/cryo_grenade_on_ilm_mult",
+        "",
+        ""
+      ]
+    },
+    {
+      "$type": "matl",
       "path": "art/mshop/weapons/class/cqc/throwingknife/base/throwingknife_base_main",
       "type": "sknp",
       "cpu": "texture/models/weapons_r5/throwingknife_base_main/throwingknife_base_main",
@@ -1393,6 +1481,22 @@
       "width": 512,
       "height": 512,
       "textures": ["", "", "", ""]
+    },
+    {
+      "$type": "matl",
+      "path": "none",
+      "type": "sknp",
+      "width": 2048,
+      "height": 2048,
+      "textures": ["texture/_none", "", "", ""]
+    },
+    {
+      "$type": "matl",
+      "path": "none",
+      "type": "rgdp",
+      "width": 2048,
+      "height": 2048,
+      "textures": ["texture/_none", "", "", ""]
     },
     {
       "$type": "matl",
@@ -8430,6 +8534,12 @@
       "$type": "rmdl",
       "path": "mdl/weapons/bullets/w_arrow_projectile.rmdl",
       "usePhysics": false
+    },
+    {
+      "$type": "rmdl",
+      "path": "mdl/weapons/grenades/ptpov_cryo_grenade_held.rmdl",
+      "usePhysics": false,
+      "animrigs": ["animrig/weapons/grenades/ptpov_thermite_held.rrig"]
     },
     {
       "$type": "rmdl",
